@@ -8,13 +8,14 @@
 
 ## Resource Links :
  - https://gobyexample.com/
+ - https://tutorialedge.net/golang/
  - https://www.w3schools.com/go/
  - https://www.tutorialspoint.com/go/index.htm#
  - https://www.programiz.com/golang
  - https://www.javatpoint.com/go-tutorial
  - https://www.codingninjas.com/codestudio/library/strings-794
  - https://go.dev/learn/
- - https://tutorialedge.net/golang
+
 
 
 ## Medium resources :
