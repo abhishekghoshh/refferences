@@ -8,7 +8,7 @@
 
 
 
-## rest api design udemy tutorial link
+## microservices design udemy tutorial link
 - https://udemy.com/course/design-microservices-architecture-with-patterns-principles
 
 
