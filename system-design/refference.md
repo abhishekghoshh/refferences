@@ -19,3 +19,5 @@
 - #### A video to mp3 converter using python and kubernetes
     - https://www.youtube.com/watch?v=hmkF77F9TLw
     - https://github.com/selikapro/microservices-python
+- #### Design a Parking Garage
+    - https://www.youtube.com/watch?v=NtMvNh0WFVM

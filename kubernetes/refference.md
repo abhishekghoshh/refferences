@@ -1,3 +1,10 @@
+
+
+
+## Youtube links :
+- Kubernetes Explained in 6 Minutes | k8s Architecture (https://www.youtube.com/watch?v=TlHvYWVUZyc)
+- Kubernetes vs. Docker: It's Not an Either/Or Question (https://www.youtube.com/watch?v=2vMEQ5zs1ko)
+
 ## Kubernetes udemy tutorials :
 - https://udemy.com/course/certified-kubernetes-application-developer
 - https://udemy.com/course/certified-kubernetes-administrator-with-practice-tests
