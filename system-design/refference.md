@@ -21,3 +21,5 @@
     - https://github.com/selikapro/microservices-python
 - #### Design a Parking Garage
     - https://www.youtube.com/watch?v=NtMvNh0WFVM
+- #### Microservices Architecture Patterns
+    - https://www.youtube.com/playlist?list=PLTyWtrsGknYd0JgqeARypdRy-SX1ORYhs
