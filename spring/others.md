@@ -18,3 +18,8 @@
 - Reactive Programming in JAVA | Project Reactor Full Tutorial
     - https://www.youtube.com/watch?v=O26jhgk682Q
     - https://github.com/shabbirdwd53/reactive-programming-tutorial
+- SpringDoc - An Open API 3.0 based Documentation Library in Spring Boot
+    - https://www.youtube.com/watch?v=iaVBleTf88U
+    - https://github.com/dailycodebuffer/Spring-MVC-Tutorials/tree/master/openapi-documentation
+
+

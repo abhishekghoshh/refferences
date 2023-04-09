@@ -12,3 +12,14 @@
 - Spring Transactions Tutorial | Spring Boot - Daily Code Buffer
     - https://www.youtube.com/watch?v=raWaxW_clqo
     - https://github.com/dailycodebuffer/Spring-MVC-Tutorials/tree/master/Spring-Transactional
+- MySQL Integration with Spring Boot Application | Daily Code Buffer
+    - https://www.youtube.com/watch?v=qsioDgfs7jc
+    - https://github.com/dailycodebuffer/Spring-MVC-Tutorials/tree/master/SpringBoot-MySQLDemo
+
+
+
+
+## Other database implentations :
+- How to implement Redis in Spring Boot using Spring Data Redis & Jedis
+    - https://www.youtube.com/watch?v=PpkPTviLTLs
+    - https://github.com/dailycodebuffer/Spring-MVC-Tutorials/tree/master/SpringBoot-Redis-Demo
