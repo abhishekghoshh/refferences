@@ -63,6 +63,16 @@
 - Spring Boot and Spring Security with JWT including Access and Refresh Tokens
     - https://www.youtube.com/watch?v=mYKf4pufQWA
     - https://github.com/getarrays/userservice
+- How To Integrate Keycloak With Spring Cloud Gateway - Part 1
+    - https://www.youtube.com/watch?v=TrASdBQu2_k
+- How To Integrate Keycloak RBAC With Spring Gateway And Resource Server - Part 2
+    - https://www.youtube.com/watch?v=p0awB6pL7CE
+- Spring Security Oauth2 Tutorial with Keycloak Playlist
+    - https://www.youtube.com/watch?v=3BUm0ZlzBLk&list=PLSVW22jAG8pAXU0th247M7xPCekzeNdrH
+- Securing Spring Boot Microservices with Keycloak using OpenID | OAuth2.0 | JavaTechie
+    - https://www.youtube.com/watch?v=La082JsJoH4
+- Spring security playlist by The Dev World - by Sergio Lema
+    - https://www.youtube.com/playlist?list=PLab_if3UBk99jYV1jfe_7fKQczVX9H4zZ
 
 
 

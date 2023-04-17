@@ -11,3 +11,7 @@
 - Cassandra vs MongoDB vs HBase | Difference Between Popular NoSQL Databases | Edureka (https://www.youtube.com/watch?v=QlqylUeqeis)
 - What is Database Sharding? (https://www.youtube.com/watch?v=hdxdhCpgYo8)
 - When should you shard your database? (https://www.youtube.com/watch?v=iHNovZUZM3A)
+
+
+## Udemy course :
+- https://thoughtworks.udemy.com/course/the-complete-sql-bootcamp/
