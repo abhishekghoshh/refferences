@@ -31,3 +31,7 @@
     - https://www.youtube.com/playlist?list=PLTyWtrsGknYd0JgqeARypdRy-SX1ORYhs
 - #### FAANG System Design Interview by ByteByteGo
     - https://www.youtube.com/watch?v=M4lR_Va97cQ&list=PLCRMIe5FDPseVvwzRiCQBmNOVUIZSSkP8
+
+
+- #### Design a Payment System - System Design Interview
+    - https://www.youtube.com/watch?v=olfaBgJrUBI

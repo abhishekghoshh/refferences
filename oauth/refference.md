@@ -1,5 +1,10 @@
-## OAuth udemy tutorial links :
+## OAuth and Okta udemy tutorial links :
+- https://udemy.com/course/learn-oauth-2/
+- https://udemy.com/course/enterprise-oauth-for-developers/
 - https://udemy.com/course/oauth-2-simplified
+- https://udemy.com/course/advanced-oauth-security
+- https://udemy.com/course/getting-started-with-okta/
+- https://udemy.com/course/master-saml-with-okta/
 
 
 ## youtube links :
