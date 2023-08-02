@@ -1,5 +1,7 @@
 
-
+What's new in DB :
+- 15 futuristic databases you've never heard of -> https://www.youtube.com/watch?v=jb2AvF8XzII
+- The Power of Vector Databases For Knowledge Search -> https://www.youtube.com/watch?v=awIm3rQOBxE
 
 ## free youtube links :
 - 7 Database Paradigms (https://www.youtube.com/watch?v=W2Z7fbCLSTw)
