@@ -8,15 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f79ff8c8b099d297",
+            "id": "4129bb45933ff6a8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "4129bb45933ff6a8",
+            "id": "08e52fb3a52e8c6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -150,10 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f79ff8c8b099d297",
+  "active": "4129bb45933ff6a8",
   "lastOpenFiles": [
-    "README.md",
     "ds-algo.md",
+    "README.md",
     "ds-algo/refference.md",
     "Untitled.canvas",
     "Armeria/Refference.md",
