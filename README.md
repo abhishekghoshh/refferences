@@ -1,3 +1,2 @@
-# Refferences
-Refferences for all my learnings 
-- OAuth
+# References for all my learning and curriculam
+- [[ds-algo]]

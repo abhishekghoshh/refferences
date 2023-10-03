@@ -1,5 +1,8 @@
 
 
+## Kubernetes cheetsheet
+- https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+
 
 ## Youtube links :
 - Kubernetes Explained in 6 Minutes | k8s Architecture (https://www.youtube.com/watch?v=TlHvYWVUZyc)

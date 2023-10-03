@@ -1,5 +1,4 @@
 ## Udemy courses for Scala:
-- https://thoughtworks.udemy.com/course/completescala3
 - https://thoughtworks.udemy.com/course/stairway-to-scala-applied-part-1/
 - https://thoughtworks.udemy.com/course/stairway-to-scala-applied-part-2/
 - https://thoughtworks.udemy.com/course/stairway-to-scala-applied-part-3/
@@ -21,3 +20,14 @@
 
 ## Design pattern
 - https://github.com/josephguan/scala-design-patterns
+
+
+## Official documentation
+- Tour of scala (https://docs.scala-lang.org/tour/tour-of-scala.html)
+- SCALA 3 — BOOK (https://docs.scala-lang.org/scala3/book/introduction.html)
+
+## Scala protocol buffer example 
+- https://github.com/delta-io/delta-sharing/tree/main/server/src/main
+
+## Coursier apps
+- https://github.com/coursier/apps
