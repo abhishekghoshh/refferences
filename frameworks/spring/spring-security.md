@@ -1,0 +1,48 @@
+### Udemy tutorial :
+- [Spring Security 6 Zero to Master along with JWT,OAUTH2](https://udemy.com/course/spring-security-zero-to-master)
+- [Spring Security Fundamentals (OAuth ,JWT,CSRF and more)](https://udemy.com/course/spring-security-fundamentals)
+- [OAuth 2.0 in Spring Boot Applications](https://udemy.com/course/oauth2-in-spring-boot-applications)
+- [Keycloak : Single Sign On with Spring Boot & Spring Security](https://udemy.com/course/keycloak-single-sign-on-sso-with-spring-boot-spring-security-thymeleaf)
+- [Master SAML 2.0 with Okta](https://udemy.com/course/master-saml-with-okta)
+
+### Youtube courses :
+- #### Java Brains
+	- [Spring Security Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE)
+- #### Dan Vega
+	- [Spring Security JDBC: How to authenticate against a database in Spring Boot](https://www.youtube.com/watch?v=d7ZmZFbE_qY)
+	- [Spring Security JPA Authentication in Spring Boot](https://www.youtube.com/watch?v=awcCiqBO36E)
+	- [Spring Security JWT: How to secure your Spring Boot REST APIs with JSON Web Tokens](https://www.youtube.com/watch?v=KYNR5js2cXE)
+	- [Spring Security without the WebSecurityConfigurerAdapter](https://www.youtube.com/watch?v=s4X4SJv2RrU )
+- ####   Backend Story
+	- [Spring Security: Authentication Architecture Explained in Depth](https://www.youtube.com/watch?v=ElY3rjtukig)
+- #### Daily Code Buffer
+	- [Spring Security Tutorial | In depth Course](https://www.youtube.com/watch?v=tWcqSIQr6Ks)
+	- [Spring Security Tutorial with Login Example (Spring Boot + Spring Security + MySQL)](https://www.youtube.com/watch?v=tDZPdovCH4I)
+	- [Implementing JWT (JSON Web Tokens) with Spring Security in Springboot App](https://www.youtube.com/watch?v=lA18U8dGKF8)
+	- [OAuth 2.0 Implementation with Spring Security and Spring Boot | Full Example](https://www.youtube.com/watch?v=MOCeQYbQPPU)
+- ####  Coding with Max
+	- [Rest API Authentication | Spring OAuth 2.0 Resource Server, JWT, MongoDB, Spring Boot](https://www.youtube.com/watch?v=FoyAvzU5fO0)
+	- [Rest API with JWT Access & Refresh Tokens | Spring Boot, MongoDB](https://www.youtube.com/watch?v=CqytzuPA5Og)
+- #### Amigoscode
+	- [Spring Security | FULL COURSE](https://www.youtube.com/watch?v=her_7pa0vrg)
+	- [Spring Boot and Spring Security with JWT including Access and Refresh Tokens](https://www.youtube.com/watch?v=VVn9OG9nfH0)
+	- [Spring Boot 3 + Spring Security 6 - JWT Authentication and Authorisation](https://www.youtube.com/watch?v=KxqlJblhzfI)
+- #### Get Arrays
+	- [Spring Boot and Spring Security with JWT including Access and Refresh Tokens](https://www.youtube.com/watch?v=mYKf4pufQWA)
+- #### Refactor First
+	- [How To Integrate Keycloak With Spring Cloud Gateway - Part 1](https://www.youtube.com/watch?v=TrASdBQu2_k)
+	- [How To Integrate Keycloak RBAC With Spring Gateway And Resource Server - Part 2](https://www.youtube.com/watch?v=p0awB6pL7CE)
+- ####  Programming Techie
+	- [Spring Boot OAuth2 Keycloak](https://www.youtube.com/playlist?list=PLSVW22jAG8pAXU0th247M7xPCekzeNdrH)
+- #### Java Techie
+	- [Securing Spring Boot Microservices with Keycloak using OpenID | OAuth2.0 | JavaTechie](https://www.youtube.com/watch?v=La082JsJoH4)
+- #### The Dev World - by Sergio Lema
+	- [How to use Spring Security to Authenticate and Authorize the requests](https://www.youtube.com/playlist?list=PLab_if3UBk99jYV1jfe_7fKQczVX9H4zZ)
+- #### Spring developer
+	- [Spring Boot and OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)
+	- [Explain it to Me Like I'm 5: Oauth2 and OpenID](https://www.youtube.com/watch?v=5th6CSQTdpM)
+	- [Implementing Microservices Security Patterns and Protocols with Spring Security](https://www.youtube.com/watch?v=JnYIsvJY7gM)
+	- [Getting Started with Spring Authorization Server](https://www.youtube.com/watch?v=ZIjqDIdFyBw)
+	- [Spring Security Patterns](https://www.youtube.com/watch?v=xEnvAAhMGu4)
+	- [Security Patterns for Microservice Architectures](https://www.youtube.com/watch?v=s4wsqYaZJ2s)
+	- [Spring Security 5.5 From Taxi to Takeoff](https://www.youtube.com/watch?v=5tlU_Vjv8Ns)

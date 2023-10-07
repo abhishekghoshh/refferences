@@ -4,34 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "5fa111b826eb9af6",
+        "id": "abb0c6cf13b923f3",
         "type": "tabs",
         "children": [
           {
-            "id": "4129bb45933ff6a8",
+            "id": "976fc1c73efd7337",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "database/database.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "08e52fb3a52e8c6b",
+            "id": "e73070949a80b5d3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "90a35aa04e9d9ef1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ds-algo.md",
+                "file": "database/vector.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,18 +163,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4129bb45933ff6a8",
+  "active": "e73070949a80b5d3",
   "lastOpenFiles": [
-    "ds-algo.md",
-    "README.md",
-    "ds-algo/refference.md",
+    "topics.md",
+    "others/others.md",
+    "database/vector.md",
+    "others/refferences.md",
+    "others/oauth.md",
+    "oauth/okta.md",
+    "database/database.md",
+    "others/Raspberry-Pi.md",
+    "frameworks/frameworks.md",
+    "frameworks/Armeria.md",
+    "database/surrielDB.md",
+    "database/redis.md",
+    "database/postgres.md",
+    "database/mongodb.md",
+    "database/kafka.md",
+    "database/graphDB.md",
+    "cloud/terraform.md",
+    "cloud/podman.md",
+    "cloud/kubernetes.md",
+    "cloud/github-actions.md",
+    "cloud/GCP-partners-cloud-skills-programs.md",
+    "cloud/GCP.md",
+    "cloud/cloud.md",
+    "cloud/AWS.md",
+    "AI/AI.md",
+    "language/language.md",
+    "Untitled",
+    "cloud",
+    "databases",
+    "frameworks",
+    "language",
+    "important",
+    "graphDB",
+    "Raspberry-Pi",
     "Untitled.canvas",
-    "Armeria/Refference.md",
-    "AI/refference.md",
-    "surrielDB/refference.md",
-    "GCP/refference.md",
-    "GCP/partners-cloud-skills-programs.md",
-    "git/refference.md",
-    "design-patterns/refference.md"
+    "Untitled 1.canvas"
   ]
 }
