@@ -4,5 +4,7 @@
 - [[database]]
 - [[frameworks]]
 - [[cloud]]
+- [[server]]
 - [[others]]
 - [[AI]]
+- [[personal-project]]

@@ -1,4 +1,3 @@
-
 ### topics
 - [[postgres]]
 - [[mongodb]]

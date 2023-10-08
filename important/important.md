@@ -3,4 +3,5 @@
 - [[design-patterns]]
 - [[system-design]]
 - [[git]]
-- [[os]]
+- [[linux]]
+- [[open-source]]

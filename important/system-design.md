@@ -1,3 +1,12 @@
+### key-value-datastore
+- [Design a distributed key-value store that is highly consistent and is network partition tolerant.](https://mukeshsri.medium.com/design-a-distributed-key-value-store-that-is-highly-consistent-and-is-network-partition-tolerant-ad6375faecc9)
+
+### securing-apis
+- [Securing APIs: Common Threats and Best Practices](https://medium.com/@kavitam5/securing-our-apis-common-threats-and-best-practices-dadecd1a41ee)
+- [Service-to-service authentication & authorisation patterns](https://kalpads.medium.com/service-to-service-authentication-authorisation-patterns-e081b078be94)
+
+
+
 ## rest api design udemy tutorial link
 - https://udemy.com/course/rest-api-design-the-complete-guide/
 

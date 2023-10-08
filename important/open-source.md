@@ -1,6 +1,4 @@
 Open source contribution
-
-
 https://www.hackerearth.com/getstarted-opensource/
 
 Hactober fest introduction

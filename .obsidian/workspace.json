@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "abb0c6cf13b923f3",
+        "id": "2896ac3e760f632c",
         "type": "tabs",
         "children": [
           {
-            "id": "976fc1c73efd7337",
+            "id": "b99131c6d85a34c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/database.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e73070949a80b5d3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "90a35aa04e9d9ef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "database/vector.md",
+                "file": "important/open-source.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "important/open-source.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "important/open-source.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "important/open-source.md"
+              }
             }
           }
         ]
@@ -163,35 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e73070949a80b5d3",
+  "active": "b99131c6d85a34c6",
   "lastOpenFiles": [
-    "topics.md",
-    "others/others.md",
-    "database/vector.md",
-    "others/refferences.md",
-    "others/oauth.md",
-    "oauth/okta.md",
-    "database/database.md",
+    "important/system-design.md",
+    "important/open-source.md",
+    "important/important.md",
+    "important/git.md",
+    "important/ds-algo.md",
+    "important/design-patterns.md",
+    "server/server-proxy.md",
+    "server/server.md",
+    "server/certificates.md",
     "others/Raspberry-Pi.md",
+    "others/others.md",
+    "others/oauth.md",
+    "language/scala.md",
+    "language/rust.md",
+    "language/language.md",
+    "language/java.md",
+    "language/golang.md",
+    "important/linux.md",
+    "frameworks/Helidon-Nima.md",
     "frameworks/frameworks.md",
     "frameworks/Armeria.md",
-    "database/surrielDB.md",
-    "database/redis.md",
-    "database/postgres.md",
-    "database/mongodb.md",
-    "database/kafka.md",
-    "database/graphDB.md",
-    "cloud/terraform.md",
-    "cloud/podman.md",
-    "cloud/kubernetes.md",
-    "cloud/github-actions.md",
-    "cloud/GCP-partners-cloud-skills-programs.md",
-    "cloud/GCP.md",
-    "cloud/cloud.md",
-    "cloud/AWS.md",
-    "AI/AI.md",
-    "language/language.md",
-    "Untitled",
+    "frameworks/spring/spring-security.md",
+    "frameworks/spring/spring-reactive.md",
+    "frameworks/spring/spring-kubernetes.md",
+    "frameworks/spring/spring-kafka.md",
+    "frameworks/spring/spring-jpa.md",
+    "personal-project",
     "cloud",
     "databases",
     "frameworks",
