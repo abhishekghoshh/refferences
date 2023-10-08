@@ -2,6 +2,8 @@
 - [Top 50+ AWS Services Explained in 10 Minutes](https://www.youtube.com/watch?v=JIbIYCM48to)
 - [Intro to AWS - The Most Important Services To Learn](https://www.youtube.com/watch?v=FDEpdNdFglI)
 - [The Serverless Hype Explained!](https://www.youtube.com/watch?v=tgFiOzVEL0Q)
+- [AWS | ByteMonk](https://www.youtube.com/playlist?list=PLJq-63ZRPdBswWWpRKzxlZPxF7m6LcZ_5)
+
 ### Udemy tutorials
 - [Ultimate AWS Certified Developer Associate 2023 NEW DVA-C02](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
 - [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "important/open-source.md",
+                "file": "important/system-design.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "important/open-source.md",
+                "file": "important/system-design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "important/open-source.md",
+                "file": "important/system-design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "important/open-source.md"
+                "file": "important/system-design.md"
               }
             }
           }
@@ -148,7 +148,10 @@
   },
   "active": "b99131c6d85a34c6",
   "lastOpenFiles": [
+    "database/mongodb.md",
     "important/system-design.md",
+    "cloud/AWS.md",
+    "database/postgres.md",
     "important/open-source.md",
     "important/important.md",
     "important/git.md",
@@ -171,9 +174,6 @@
     "frameworks/Armeria.md",
     "frameworks/spring/spring-security.md",
     "frameworks/spring/spring-reactive.md",
-    "frameworks/spring/spring-kubernetes.md",
-    "frameworks/spring/spring-kafka.md",
-    "frameworks/spring/spring-jpa.md",
     "personal-project",
     "cloud",
     "databases",
