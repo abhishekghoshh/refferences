@@ -1,6 +1,7 @@
 ### topics
 - [[postgres]]
 - [[mongodb]]
+- [[kafka]]
 - [[redis]]
 - [[surrielDB]]
 - [[graphDB]]
