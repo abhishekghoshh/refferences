@@ -5,3 +5,5 @@
 - [[git]]
 - [[linux]]
 - [[open-source]]
+- [[Neovim]]
+- [[obsidian]]

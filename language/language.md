@@ -3,3 +3,7 @@
 - [[scala]]
 - [[golang]]
 - [[rust]]
+- [[zig]]
+- [[Erlang]]
+- [[haskell]]
+

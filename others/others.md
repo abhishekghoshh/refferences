@@ -1,4 +1,6 @@
 ### topics
-- [[oauth]]
+- [[OAuth]]
 - [[Raspberry-Pi]]
-
+- [[lsp]]
+- [[noVNC]]
+- [[Mathematics]]

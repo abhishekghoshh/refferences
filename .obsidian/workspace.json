@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "31e2c7c03f51ef73",
+        "id": "108b2d3d8d7244f8",
         "type": "tabs",
         "children": [
           {
-            "id": "0dc0a7a9c8db4ea0",
+            "id": "1043aac6d9cfc82e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "important/Neovim.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "important/Neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "important/Neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "important/Neovim.md"
+              }
             }
           }
         ]
@@ -138,34 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0dc0a7a9c8db4ea0",
+  "active": "1043aac6d9cfc82e",
   "lastOpenFiles": [
-    "frameworks/frameworks.md",
-    "database/database.md",
+    "database/Neo4j.md",
     "important/system-design.md",
-    "database/mongodb.md",
-    "cloud/AWS.md",
-    "database/postgres.md",
-    "important/open-source.md",
-    "important/important.md",
-    "important/git.md",
-    "important/ds-algo.md",
-    "important/design-patterns.md",
-    "server/server-proxy.md",
-    "server/server.md",
-    "server/certificates.md",
-    "others/Raspberry-Pi.md",
-    "others/others.md",
-    "others/oauth.md",
-    "language/scala.md",
-    "language/rust.md",
+    "important/Neovim.md",
     "language/language.md",
-    "language/java.md",
-    "language/golang.md",
+    "important/important.md",
+    "important/obsidian.md",
+    "language/zig.md",
+    "database/database.md",
     "important/linux.md",
-    "frameworks/Helidon-Nima.md",
+    "important/design-patterns.md",
+    "language/rust.md",
+    "others/Mathematics.md",
+    "others/others.md",
+    "topics.md",
+    "others/OAuth.md",
+    "language/haskell.md",
+    "language/Erlang.md",
+    "language/java.md",
     "frameworks/Armeria.md",
-    "frameworks/spring/spring-security.md",
+    "others/noVNC.md",
+    "others/lsp.md",
+    "cloud/GCP.md",
+    "important/open-source.md",
+    "frameworks/Helidon-Nima.md",
+    "Untitled.md",
+    "database/kafka.md",
     "personal-project",
     "cloud",
     "databases",

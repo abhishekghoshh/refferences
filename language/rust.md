@@ -49,6 +49,11 @@
 - [Can We Make Yew Even Faster?](https://www.youtube.com/watch?v=SIdTRs_AsGs)
 - [The Truth about Rust/WebAssembly Performance](https://www.youtube.com/watch?v=4KtotxNAwME)
 - [Rust at speed — building a fast concurrent database](https://www.youtube.com/watch?v=s19G6n0UjsM)
+- [Why discord switched from Go to Rust?](https://www.youtube.com/watch?v=viJ92zBa5yc)
+- [Why Shopify chose Rust?](https://www.youtube.com/watch?v=v-igd-gp8k4)
+
+
+
 ### Youtube tutorials
 - [The Rust Lang Book | Let's Get Rusty](https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
 - [Learning Rust! Going through the Rust Language book live | Tom McGurl](https://www.youtube.com/watch?v=5QsEuoIt7JQ&list=PLSbgTZYkscaoV8me47mKqSM6BBSZ73El6)

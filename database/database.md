@@ -4,7 +4,7 @@
 - [[kafka]]
 - [[redis]]
 - [[surrielDB]]
-- [[graphDB]]
+- [[Neo4j]]
 - [[vector]]
 ### Youtube courses :
 - [7 Database Paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
@@ -19,6 +19,7 @@
 - [Graph Databases Will Change Your Freakin' Life (Best Intro Into Graph Databases)](https://www.youtube.com/watch?v=GekQqFZm7mA)
 - [15 futuristic databases you've never heard of](https://www.youtube.com/watch?v=jb2AvF8XzII)
 - [The Power of Vector Databases For Knowledge Search](https://www.youtube.com/watch?v=awIm3rQOBxE)
+- [Relational database (RDBMS) by Decomplexify](https://www.youtube.com/playlist?list=PLNITTkCQVxeXryTQvY0JBWTyN9ynxxPH8)
 ### Udemy course :
 - [The Complete SQL Bootcamp: Go from Zero to Hero](https://thoughtworks.udemy.com/course/the-complete-sql-bootcamp/)
 
