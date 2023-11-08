@@ -11,15 +11,26 @@
             "id": "1043aac6d9cfc82e",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdf/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf"
+              }
+            }
+          },
+          {
+            "id": "e5b9dfaf73ad7267",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "important/Neovim.md",
+                "file": "important/Tech-Interview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "important/Neovim.md",
+                "file": "important/Tech-Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "important/Neovim.md",
+                "file": "important/Tech-Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "important/Neovim.md"
+                "file": "important/Tech-Interview.md"
               }
             }
           }
@@ -146,11 +157,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1043aac6d9cfc82e",
+  "active": "e5b9dfaf73ad7267",
   "lastOpenFiles": [
+    "pdf/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf",
+    "important/Tech-Interview.md",
+    "pdf/system-design-interview-an-insiders-guide-2nbsped-9798664653403.pdf",
+    "pdf/Grokking-the-system-design-interviewpdf-5-pdf-free (1).pdf",
+    "pdf/Designing Data-Intensive Applications - Martin Kleppmann.pdf",
+    "pdf/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf",
+    "pdf/d60fa09a-c4b5-4e31-9dbd-5d049c6c8f49.pdf.pdf",
+    "pdf/Sd_Blueprint.pdf",
+    "pdf/Kubernetes_Tools_Ecosystem.pdf",
+    "Sd_Blueprint.pdf",
+    "Kubernetes_Tools_Ecosystem.pdf",
+    "important/Neovim.md",
     "database/Neo4j.md",
     "important/system-design.md",
-    "important/Neovim.md",
     "language/language.md",
     "important/important.md",
     "important/obsidian.md",
@@ -172,16 +194,6 @@
     "cloud/GCP.md",
     "important/open-source.md",
     "frameworks/Helidon-Nima.md",
-    "Untitled.md",
-    "database/kafka.md",
-    "personal-project",
-    "cloud",
-    "databases",
-    "frameworks",
-    "language",
-    "important",
-    "graphDB",
-    "Raspberry-Pi",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
