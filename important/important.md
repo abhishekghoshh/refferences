@@ -2,6 +2,7 @@
 - [[ds-algo]]
 - [[design-patterns]]
 - [[system-design]]
+- [[Tech-Interview]]
 - [[git]]
 - [[linux]]
 - [[open-source]]

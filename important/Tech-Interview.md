@@ -17,6 +17,8 @@
 
 ### Odd Interview
 
+### Mock Interview videos 
+- [Software Engineering Job Interview – Full Mock Interview](https://www.youtube.com/watch?v=1qw5ITr3k9E)
 ### Mock Interview
 - [interviewing.io](https://interviewing.io/)
 - [pramp](https://www.pramp.com/#/)

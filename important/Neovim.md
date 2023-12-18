@@ -2,7 +2,7 @@
 ### With Neovim chad
 - [Turn VIM into a full featured IDE with only one command](https://www.youtube.com/watch?v=Mtgo-nP_r8Y)
 - [Official documentation](https://nvchad.com/docs/quickstart/install)
-
+- [Effective Neovim setup for web development towards 2024](https://www.youtube.com/watch?v=fFHlfbKVi30)
 ##### Shortcuts for neo vim chad 
 - space + c + h for cheetsheet opening and closing
 - Space -> t -> h (setting themes) [option + control + p/n ]

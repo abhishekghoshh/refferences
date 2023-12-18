@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "108b2d3d8d7244f8",
+        "id": "0f33a9eaba465e07",
         "type": "tabs",
         "children": [
           {
-            "id": "1043aac6d9cfc82e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdf/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf"
-              }
-            }
-          },
-          {
-            "id": "e5b9dfaf73ad7267",
+            "id": "9f2e3d0206701eee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "important/Tech-Interview.md",
+                "file": "language/java.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "important/Tech-Interview.md",
+                "file": "language/java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "important/Tech-Interview.md",
+                "file": "language/java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "important/Tech-Interview.md"
+                "file": "language/java.md"
               }
             }
           }
@@ -157,10 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5b9dfaf73ad7267",
+  "active": "9f2e3d0206701eee",
   "lastOpenFiles": [
+    "cloud/kubernetes.md",
+    "cloud/cloud.md",
+    "important/linux.md",
+    "language/java.md",
+    "important/system-design.md",
+    "important/Neovim.md",
+    "important/open-source.md",
+    "important/obsidian.md",
+    "important/important.md",
+    "important/git.md",
+    "important/ds-algo.md",
+    "important/design-patterns.md",
     "pdf/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf",
     "important/Tech-Interview.md",
+    "others/Raspberry-Pi.md",
+    "language/golang.md",
+    "pdf/designing-data-intensive-applications.pdf",
+    "designing-data-intensive-applications.pdf",
     "pdf/system-design-interview-an-insiders-guide-2nbsped-9798664653403.pdf",
     "pdf/Grokking-the-system-design-interviewpdf-5-pdf-free (1).pdf",
     "pdf/Designing Data-Intensive Applications - Martin Kleppmann.pdf",
@@ -168,18 +173,10 @@
     "pdf/d60fa09a-c4b5-4e31-9dbd-5d049c6c8f49.pdf.pdf",
     "pdf/Sd_Blueprint.pdf",
     "pdf/Kubernetes_Tools_Ecosystem.pdf",
-    "Sd_Blueprint.pdf",
-    "Kubernetes_Tools_Ecosystem.pdf",
-    "important/Neovim.md",
     "database/Neo4j.md",
-    "important/system-design.md",
     "language/language.md",
-    "important/important.md",
-    "important/obsidian.md",
     "language/zig.md",
     "database/database.md",
-    "important/linux.md",
-    "important/design-patterns.md",
     "language/rust.md",
     "others/Mathematics.md",
     "others/others.md",
@@ -187,13 +184,6 @@
     "others/OAuth.md",
     "language/haskell.md",
     "language/Erlang.md",
-    "language/java.md",
-    "frameworks/Armeria.md",
-    "others/noVNC.md",
-    "others/lsp.md",
-    "cloud/GCP.md",
-    "important/open-source.md",
-    "frameworks/Helidon-Nima.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

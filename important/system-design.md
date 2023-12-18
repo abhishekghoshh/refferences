@@ -4,6 +4,8 @@
 - [Service-to-service authentication & authorisation patterns](https://kalpads.medium.com/service-to-service-authentication-authorisation-patterns-e081b078be94)
 - [8 Reasons Why WhatsApp Was Able to Support 50 Billion Messages a Day With Only 32 Engineers](https://newsletter.systemdesign.one/p/whatsapp-engineering)
 - [WHY DISCORD IS SWITCHING FROM GO TO RUST](https://discord.com/blog/why-discord-is-switching-from-go-to-rust)
+- [Zerodha and POSTGRESQL](https://zerodha.tech/blog/working-with-postgresql/)
+- [How Discord Managed To Store BILLIONS Of Messages With This Database](https://www.youtube.com/watch?v=aDMUcfOaCm0)
 
 ### Youtube tutorials
 - [How to "think" (and design) like a Software Architect at Silicon Valley Code Camp 2019](https://www.youtube.com/watch?v=mCM6QVHD08c)
@@ -12,10 +14,12 @@
 - [HTTP3 Is Eating The World | Prime Reacts](https://www.youtube.com/watch?v=-jlYeQ3hOhY)
 - [Design Twitter - System Design Interview](https://www.youtube.com/watch?v=o5n85GRKuzk)
 - [Google system design interview: Design TikTok (with ex-Google EM)](https://www.youtube.com/watch?v=NHqdG-aZxOk)
+- [Design a Key-Value Store - System Design Mock Interview (with Microsoft Software Engineer)](https://www.youtube.com/watch?v=6fOoXT1HYxk)
 - [Design Youtube - System Design Interview](https://www.youtube.com/watch?v=jPKTo1iGQiE)
 - [Consistent Hashing | The Backend Engineering Show](https://www.youtube.com/watch?v=p6wwj0ozifw)
 - [Google system design interview: Design Spotify (with ex-Google EM)](https://www.youtube.com/watch?v=_K-eupuDVEc)
 - [Amazon System Design Interview: Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM)
+- [How Dukaan moved out of Cloud and are hosting their infra on Bare Metal ft. Subhash Choudhary](https://www.youtube.com/watch?v=vFxQyZX84Ro)
 - [System Design for Beginners Course](https://www.youtube.com/watch?v=m8Icp_Cid5o)
 - [Microservice Architecture and System Design with Python & Kubernetes – Full Course](https://www.youtube.com/watch?v=hmkF77F9TLw)
 
