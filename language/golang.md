@@ -1,6 +1,7 @@
 
 ### Youtube videos 
 - [This is the BEST Tool for Creating Golang Projects](https://www.youtube.com/watch?v=-8XKrQUexrQ)
+- [Why Golang Developers HATE Gorm…](https://www.youtube.com/watch?v=iRVROuZpzFk)
 
 
 ### Online resources

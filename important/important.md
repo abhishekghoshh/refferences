@@ -8,3 +8,4 @@
 - [[open-source]]
 - [[Neovim]]
 - [[obsidian]]
+- [[networking]]

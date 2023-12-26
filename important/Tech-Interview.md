@@ -1,3 +1,10 @@
+
+
+### Youtube video
+- [Our Recommended Materials For Cracking Your Next Tech Interview](https://www.youtube.com/watch?v=wAMc7NyL4tQ)
+- [How principled coders outperform the competition](https://www.youtube.com/watch?v=q1qKv5TBaOA)
+- [How to Negotiate Your Job Offer - Prof. Deepak Malhotra (Harvard Business School)](https://www.youtube.com/watch?v=km2Hd_xgo9Q)
+
 ### Coding
 - [takeuforward](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 - [neetcode](https://neetcode.io/practice)
@@ -14,6 +21,7 @@
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
 - [A Life Engineered](https://www.youtube.com/@ALifeEngineered)
 - [STAR Method](https://www.themuse.com/advice/star-interview-method)
+- [Master Behavioral Interviews (for Software Engineers)](https://www.youtube.com/watch?v=8hpSMnCwCxY)
 
 ### Odd Interview
 
@@ -24,7 +32,4 @@
 - [pramp](https://www.pramp.com/#/)
 - [meetapro](https://www.meetapro.com/)
 ### Apply for jobs
-
-
-[Our Recommended Materials For Cracking Your Next Tech Interview](https://www.youtube.com/watch?v=wAMc7NyL4tQ)
 
