@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "important/Tech-Interview.md",
+                "file": "important/Neovim.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "important/Tech-Interview.md",
+                "file": "important/Neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "important/Tech-Interview.md",
+                "file": "important/Neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "important/Tech-Interview.md"
+                "file": "important/Neovim.md"
               }
             }
           }
@@ -161,11 +161,11 @@
   },
   "active": "4f5bec39479f6291",
   "lastOpenFiles": [
+    "important/Tech-Interview.md",
     "important/linux.md",
     "database/redis.md",
     "others/lsp.md",
     "important/system-design.md",
-    "important/Tech-Interview.md",
     "pdf/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf",
     "language/java.md",
     "language/rust.md",
