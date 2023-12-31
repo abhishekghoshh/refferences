@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "important/linux.md",
+                "file": "important/shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -197,12 +197,12 @@
   },
   "active": "95265fa86c4b1cff",
   "lastOpenFiles": [
+    "important/shell.md",
+    "important/my-personal-vm.md",
+    "important/Neovim.md",
     "important/linux.md",
     "important/Tech-Interview.md",
-    "important/my-personal-vm.md",
     "important/important.md",
-    "important/shell.md",
-    "important/Neovim.md",
     "important/system-design.md",
     "important/networking.md",
     "database/redis.md",

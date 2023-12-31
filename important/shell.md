@@ -7,5 +7,10 @@ echo $SHELL
 sudo chsh -s $(which zsh) $USER
 ```
 
+### Download and install material theme zsh
+```
+curl -L -o ~/.oh-my-zsh/custom/themes/materialshell.zsh-theme https://raw.githubusercontent.com/carloscuesta/materialshell/master/materialshell.zsh
+ZSH_THEME="materialshell"
+source ~/.zshrc
 
-chmod -R 777 /path/to/directory
+```
