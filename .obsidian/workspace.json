@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "important/linux.md",
+                "file": "important/my-personal-vm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "important/linux.md",
+                "file": "important/my-personal-vm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "important/linux.md"
+                "file": "important/my-personal-vm.md"
               }
             }
           }
@@ -195,13 +195,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f5bec39479f6291",
+  "active": "95265fa86c4b1cff",
   "lastOpenFiles": [
-    "important/Tech-Interview.md",
-    "important/important.md",
-    "important/my-personal-vm.md",
-    "important/shell.md",
     "important/linux.md",
+    "important/Tech-Interview.md",
+    "important/my-personal-vm.md",
+    "important/important.md",
+    "important/shell.md",
     "important/Neovim.md",
     "important/system-design.md",
     "important/networking.md",
