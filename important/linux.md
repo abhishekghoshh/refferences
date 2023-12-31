@@ -22,7 +22,7 @@ ip add
 ```
 
 
-#### Others
+#### Reference
 - [cpu.land](https://cpu.land/the-basics)
 
 ### Setup ubuntu server in VM
