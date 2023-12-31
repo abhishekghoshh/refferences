@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "important/system-design.md",
+                "file": "important/Tech-Interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 375.50124740600586
   },
   "right": {
     "id": "5611db706a23bd20",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "important/system-design.md",
+                "file": "important/Tech-Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "important/system-design.md",
+                "file": "important/Tech-Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "important/system-design.md"
+                "file": "important/Tech-Interview.md"
               }
             }
           }
@@ -161,39 +161,39 @@
   },
   "active": "4f5bec39479f6291",
   "lastOpenFiles": [
-    "important/Tech-Interview.md",
+    "important/linux.md",
+    "database/redis.md",
+    "others/lsp.md",
     "important/system-design.md",
+    "important/Tech-Interview.md",
+    "pdf/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf",
+    "language/java.md",
+    "language/rust.md",
+    "frameworks/frameworks.md",
+    "frameworks/Micronaut.md",
+    "frameworks/Helidon-Nima.md",
+    "important/Neovim.md",
+    "important/git.md",
+    "important/important.md",
+    "important/design-patterns.md",
     "database/kafka.md",
     "AI/AI-tools.md",
     "AI/AI.md",
     "others/noVNC.md",
     "others/Mathematics.md",
-    "others/lsp.md",
     "others/others.md",
     "others/Raspberry-Pi.md",
-    "important/Neovim.md",
     "language/golang.md",
-    "database/redis.md",
     "database/database.md",
     "database/postgres.md",
     "topics.md",
     "server/certificates.md",
-    "server/server.md",
-    "important/networking.md",
-    "important/important.md",
-    "important/git.md",
-    "important/linux.md",
-    "language/java.md",
-    "cloud/kubernetes.md",
-    "cloud/cloud.md",
-    "important/open-source.md",
     "pdf/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf",
     "pdf/designing-data-intensive-applications.pdf",
     "designing-data-intensive-applications.pdf",
     "pdf/system-design-interview-an-insiders-guide-2nbsped-9798664653403.pdf",
     "pdf/Grokking-the-system-design-interviewpdf-5-pdf-free (1).pdf",
     "pdf/Designing Data-Intensive Applications - Martin Kleppmann.pdf",
-    "pdf/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf",
     "pdf/d60fa09a-c4b5-4e31-9dbd-5d049c6c8f49.pdf.pdf",
     "pdf/Sd_Blueprint.pdf",
     "pdf/Kubernetes_Tools_Ecosystem.pdf",

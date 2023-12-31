@@ -20,8 +20,4 @@
 #### Others
 - [Garbage collection best practices](https://docs.unity3d.com/Manual/performance-garbage-collection-best-practices.html)
 
-#### Popular light weight Java frameworks
-- [Helidon](https://helidon.io/)
-- [micronaut](https://micronaut.io/)
-- [Armeria](https://armeria.dev/)
 
