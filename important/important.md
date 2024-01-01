@@ -8,6 +8,6 @@
 - [[linux]]
 - [[my-personal-vm]]
 - [[open-source]]
-- [[Neovim]]
+- [[neovim]]
 - [[obsidian]]
 - [[networking]]

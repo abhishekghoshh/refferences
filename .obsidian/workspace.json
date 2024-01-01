@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "important/Tech-Interview.md",
+                "file": "important/system-design.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "important/my-personal-vm.md",
+                "file": "important/neovim.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "important/my-personal-vm.md",
+                "file": "important/neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "important/my-personal-vm.md",
+                "file": "important/neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "important/my-personal-vm.md"
+                "file": "important/neovim.md"
               }
             }
           }
@@ -197,13 +197,13 @@
   },
   "active": "95265fa86c4b1cff",
   "lastOpenFiles": [
-    "important/shell.md",
-    "important/my-personal-vm.md",
-    "important/Neovim.md",
-    "important/linux.md",
-    "important/Tech-Interview.md",
-    "important/important.md",
     "important/system-design.md",
+    "important/Tech-Interview.md",
+    "important/neovim.md",
+    "important/my-personal-vm.md",
+    "important/shell.md",
+    "important/linux.md",
+    "important/important.md",
     "important/networking.md",
     "database/redis.md",
     "others/lsp.md",

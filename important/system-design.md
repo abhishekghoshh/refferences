@@ -86,6 +86,7 @@
 - [Continuous Delivery](https://www.youtube.com/@ContinuousDelivery/playlists)
 	- [Design & Architecture](https://www.youtube.com/playlist?list=PLwLLcwQlnXBxeirFuVX9D24UMLSGU65Tw)
 - [Milan Jovanović](https://www.youtube.com/@MilanJovanovicTech/playlists)
+- [Web Dev Cody](https://www.youtube.com/@WebDevCody/playlists)
 
 ### Udemy tutorials
 - [SOLID Principles: Introducing Software Architecture & Design](https://www.udemy.com/course/solid-design/)

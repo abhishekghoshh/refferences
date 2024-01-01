@@ -1,4 +1,27 @@
 
+### Introduction
+- [Vim Tutorial for Beginners](https://www.youtube.com/watch?v=RZ4p-saaQkc)
+- [PDE: A different take on editing code](https://www.youtube.com/watch?v=QMVIJhC9Veg)
+- [Effective Neovim: Instant IDE](https://www.youtube.com/watch?v=stqUbv-5u2s)
+	- [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
+- [Vim As Your Editor](https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R)
+- Neovim tutorial series
+	- [Neovim from Scratch](https://www.youtube.com/playlist?list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ)
+	- [Neovim Configuration](https://www.youtube.com/playlist?list=PLsz00TDipIffxsNXSkskknolKShdbcALR)
+	- [Bash2Basics](https://www.youtube.com/playlist?list=PLep05UYkc6wTWlugE_9Lj6JlLpvSBbkZ_)
+	- [Make a Simple Vim/Neovim Plugin from Scratch: cyclist.vim](https://www.youtube.com/watch?v=apyV4v7x33o&list=PLep05UYkc6wSgBFseCsRBSQQ1Fmf3eRa8)
+- Neovim Customization
+	- [The perfect Neovim setup for Go](https://www.youtube.com/watch?v=i04sSQjd-qo)
+	- [The perfect Neovim setup for Rust.](https://www.youtube.com/watch?v=mh_EJhH49Ms)
+	- [Setting up Neovim for Java Development](https://www.youtube.com/watch?v=8q_VPqA-KLs)
+	- [Effective Neovim setup for web development towards 2024](https://www.youtube.com/watch?v=fFHlfbKVi30)
+	- [Automatically Execute *Anything* in Nvim](https://www.youtube.com/watch?v=9gUatBHuXE0)
+	- [Execute **anything** in neovim (now customizable)](https://www.youtube.com/watch?v=HlfjpstqXwE)
+	- [Neovim - Github Copilot | Setup & Demo | Copilot Creates a Simple Game By Itself | Official Plugin](https://www.youtube.com/watch?v=eMnZBaOs4vM&list=PLhoH5vyxr6Qo_5IoxqcQjHgBe77xD5-BP)
+	- [Better than Copilot? This AI plugin for Neovim is Incredible](https://www.youtube.com/watch?v=7k0KZsheLP4)
+- Advance topics
+	- [TakeTuesday E03: Introduction to LuaSnip](https://www.youtube.com/watch?v=Dn800rlPIho)
+
 
 ### Install neovim with lua-jit
 ```
@@ -11,7 +34,8 @@ sudo make install
 echo 'export PATH="$PATH:/path/to/neovim"' >> ~/.zshrc
 source ~/.zshrc
 ```
-## Neovim chad
+
+### Neovim chad
 - [Turn VIM into a full featured IDE with only one command](https://www.youtube.com/watch?v=Mtgo-nP_r8Y)
 - [Official documentation](https://nvchad.com/docs/quickstart/install)
 - [nvchad github](https://github.com/NvChad/NvChad)
@@ -33,18 +57,6 @@ source ~/.zshrc
 	- Command line 
 		- Horizontal ( space + h )
 		- vertical ( space + v )
-
-### Neovim quick start
-- [Effective Neovim: Instant IDE](https://www.youtube.com/watch?v=stqUbv-5u2s)
-- [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
-#### Neovim tutorial
-- [Effective Neovim: Instant IDE](https://www.youtube.com/watch?v=stqUbv-5u2s)
-- [Neovim from Scratch](https://www.youtube.com/playlist?list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ)
-- [0 to LSP : Neovim RC From Scratch](https://www.youtube.com/watch?v=w7i4amO_zaE)
-- [Neovim Configuration](https://www.youtube.com/playlist?list=PLsz00TDipIffxsNXSkskknolKShdbcALR)
-
-#### Custom neovim setup
-- [The perfect Neovim setup for Go](https://www.youtube.com/watch?v=i04sSQjd-qo)
 
 
 #### Tmux configuration
