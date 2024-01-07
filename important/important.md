@@ -2,7 +2,7 @@
 - [[ds-algo]]
 - [[design-patterns]]
 - [[system-design]]
-- [[Tech-Interview]]
+- [[tech-Interview]]
 - [[git]]
 - [[shell]]
 - [[linux]]

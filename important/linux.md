@@ -1,5 +1,13 @@
-### udemy course :
+
+#### Introduction
+- [cpu.land](https://cpu.land/the-basics)
+### Udemy course :
+- Freecodecamp
+	- [Bash Scripting Tutorial – Linux Shell Script and Command Line for Beginners](https://www.youtube.com/watch?v=sWbUDq4S6Y8) [Blog](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)
+	- [How to Configure and Operate Linux Servers - Full Course](https://www.youtube.com/watch?v=WMy3OzvBWc0)[Blog](https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/)
 - [Complete Linux Training Course to Get Your Dream IT Job 2023](https://udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/)
+- [Mastering Linux: The Comprehensive Guide](https://udemy.com/course/mastering-linux/)
+
 
 ### Youtube tutorials :
 - [How Does Linux Boot Process Work?](https://www.youtube.com/watch?v=XpFsMB6FoOs)
@@ -22,8 +30,7 @@ ip add
 ```
 
 
-#### Reference
-- [cpu.land](https://cpu.land/the-basics)
+
 
 ### Setup ubuntu server in VM
 - [Ubuntu Server for ARM](https://ubuntu.com/download/server/arm)

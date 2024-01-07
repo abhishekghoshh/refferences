@@ -7,7 +7,10 @@
 - [Vim As Your Editor](https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R)
 - Neovim tutorial series
 	- [Neovim from Scratch](https://www.youtube.com/playlist?list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ)
+	- [Neovim for Newbs. FREE NEOVIM COURSE](https://www.youtube.com/playlist?list=PLsz00TDipIffreIaUNk64KxTIkQaGguqn)
 	- [Neovim Configuration](https://www.youtube.com/playlist?list=PLsz00TDipIffxsNXSkskknolKShdbcALR)
+	- [Beginner Vim](https://www.youtube.com/playlist?list=PLmTrCsxAaghUhCmSiX5Py-e9O8UOPX502)
+	- [Coding With Vim](https://www.youtube.com/playlist?list=PLmTrCsxAaghW9KWrzuc6n2B9ud2uV5sjK)
 	- [Bash2Basics](https://www.youtube.com/playlist?list=PLep05UYkc6wTWlugE_9Lj6JlLpvSBbkZ_)
 	- [Make a Simple Vim/Neovim Plugin from Scratch: cyclist.vim](https://www.youtube.com/watch?v=apyV4v7x33o&list=PLep05UYkc6wSgBFseCsRBSQQ1Fmf3eRa8)
 - Neovim Customization
@@ -61,5 +64,14 @@ source ~/.zshrc
 
 #### Tmux configuration
 - [Tmux has forever changed the way I write code.](https://www.youtube.com/watch?v=DzNmUNvnB04)
+- [TMUX and Terminal configuration](https://www.youtube.com/playlist?list=PLsz00TDipIfct4F3pHv6_uI9OyjphQEGZ)
 - [I made the greatest tool ever! | tmux & cht.sh & fzf](https://www.youtube.com/watch?v=hJzqEAf2U4I)
+- [My Developer Workflow - How I use i3, tmux, and vim](https://www.youtube.com/watch?v=bdumjiHabhQ)
+- [How I Use Tmux With Neovim For An Awesome Dev Workflow On My Mac](https://www.youtube.com/watch?v=U-omALWIBos)
+- [My AMAZING Terminal Setup - Hyper, Oh My Zsh, Fig.io, and More!](https://www.youtube.com/watch?v=SyOnB1qvPn0)
+- [This plugin makes you a Vim and TMUX GOD](https://www.youtube.com/watch?v=qyV_hOtMdwg)
 
+
+### Others
+- [Make Windows Terminal look amazing!](https://www.youtube.com/watch?v=AK2JE2YsKto)
+- [15 Terminal Commands that will BOOST your Productivity](https://www.youtube.com/watch?v=tD8qzBmi-t0)

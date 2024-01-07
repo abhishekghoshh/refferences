@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "73b9a9a158b73eb5",
+        "id": "29acd3f7897b55ef",
         "type": "tabs",
         "children": [
           {
-            "id": "3da2d2877eb2afc7",
+            "id": "546ce6efc8bc7c53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "important/system-design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f5bec39479f6291",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "important/linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5e3eca9b5635049",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "important/important.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95265fa86c4b1cff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "important/neovim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2deb9594b7af25cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "important/shell.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "important/neovim.md",
+                "file": "important/tech-Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "important/neovim.md",
+                "file": "important/tech-Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "important/neovim.md"
+                "file": "important/tech-Interview.md"
               }
             }
           }
@@ -195,16 +142,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95265fa86c4b1cff",
+  "active": "e775ea9b17442fdd",
   "lastOpenFiles": [
-    "important/system-design.md",
-    "important/Tech-Interview.md",
-    "important/neovim.md",
-    "important/my-personal-vm.md",
-    "important/shell.md",
     "important/linux.md",
-    "important/important.md",
+    "important/neovim.md",
     "important/networking.md",
+    "important/tech-Interview.md",
+    "important/git.md",
+    "important/system-design.md",
+    "important/my-personal-vm.md",
+    "important/important.md",
+    "important/shell.md",
     "database/redis.md",
     "others/lsp.md",
     "pdf/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf",
@@ -213,7 +161,6 @@
     "frameworks/frameworks.md",
     "frameworks/Micronaut.md",
     "frameworks/Helidon-Nima.md",
-    "important/git.md",
     "important/design-patterns.md",
     "database/kafka.md",
     "AI/AI-tools.md",
