@@ -26,7 +26,9 @@
 - [When You Give Programmers a HUGE Database](https://www.youtube.com/watch?v=14o-4XKiZzA)
 - [I Made a Search Engine](https://www.youtube.com/watch?v=e-pNNZq9JEA)
 
-### How services store big amount of messages/videos/datas
+### How services store/process big amount of messages/videos/datas
+- [50 BILLION MESSAGES PER DAY WITH 32 ENGINEERS | Prime Reacts](https://www.youtube.com/watch?v=78k5-LZwLBo)
+- [1 TRILLION Messages on Discord | Prime Reacts](https://www.youtube.com/watch?v=U2xHdvvDQyI)
 - [How Discord Stores TRILLIONS of Messages](https://www.youtube.com/watch?v=O3PwuzCvAjI)
 - [How Discord Managed To Store BILLIONS Of Messages With This Database](https://www.youtube.com/watch?v=aDMUcfOaCm0)
 - [How Discord Stores TRILLIONS of Messages](https://www.youtube.com/watch?v=lLrzoyU4BPc)
@@ -89,6 +91,7 @@
 - [Web Dev Cody](https://www.youtube.com/@WebDevCody/playlists)
 
 ### Udemy tutorials
+- [REST API vs GraphQL vs gRPC - The Complete Guide](https://thoughtworks.udemy.com/course/rest-api-vs-graphql-vs-grpc-the-complete-guide/)
 - [SOLID Principles: Introducing Software Architecture & Design](https://www.udemy.com/course/solid-design/)
 - [Software Architecture: REST API Design - The Complete Guide](https://www.udemy.com/course/rest-api-design-the-complete-guide/)
 - [Clean Code](https://www.udemy.com/course/writing-clean-code/)

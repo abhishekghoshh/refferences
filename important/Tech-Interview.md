@@ -5,17 +5,20 @@
 - [How principled coders outperform the competition](https://www.youtube.com/watch?v=q1qKv5TBaOA)
 - [How to Negotiate Your Job Offer - Prof. Deepak Malhotra (Harvard Business School)](https://www.youtube.com/watch?v=km2Hd_xgo9Q)
 - [How to "think" (and design) like a Software Architect at Silicon Valley Code Camp 2019](https://www.youtube.com/watch?v=mCM6QVHD08c)
+- [Algorithms to Live By | Brian Christian & Tom Griffiths | Talks at Google](https://www.youtube.com/watch?v=OwKj-wgXteo&list=WL&index=2)
 
 ### Software design helping tutorials
 - [Clean Code](https://udemy.com/course/writing-clean-code/)
 
 
 ### Sample coding interview
+- [Most Common Concepts for Coding Interviews](https://www.youtube.com/watch?v=UrcwDOEBzZE)
 - [Software Engineering Job Interview – Full Mock Interview](https://www.youtube.com/watch?v=1qw5ITr3k9E)
 - [Google Coding Interview With A Normal Software Engineer](https://www.youtube.com/watch?v=rw4s4M3hFfs)
 - [VERY HARD Mock Coding Interview with STRIVER, YouTuber, Googler @takeUforward @striver_79!!](https://www.youtube.com/watch?v=q4Ps6cdrnw4)
 - [Mock Coding Interview with @SinghinUSA, Microsoft Software Engineer, YouTuber-Data Structures & Algo](https://www.youtube.com/watch?v=zGKFSB1tU1c)
 - [Mock Coding Interview with incoming SDE at Microsoft - @NishantChahar11, YouTuber with 50K+ subs](https://www.youtube.com/watch?v=MFkqnGiCCiU)
+- [Google Coding Interview by @clem-ex Google, ex Facebook Engineer](https://www.youtube.com/watch?v=JHzX-57dgn0)
 ### Coding
 - [takeuforward](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 - [neetcode](https://neetcode.io/practice)

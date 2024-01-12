@@ -74,4 +74,5 @@ source ~/.zshrc
 
 ### Others
 - [Make Windows Terminal look amazing!](https://www.youtube.com/watch?v=AK2JE2YsKto)
+- [Make Windows Terminal Look Better | Oh My Posh Guide](https://www.youtube.com/watch?v=-G6GbXGo4wo)
 - [15 Terminal Commands that will BOOST your Productivity](https://www.youtube.com/watch?v=tD8qzBmi-t0)
