@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "language/javascript.md",
+                "file": "topics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "language/javascript.md",
+                "file": "topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "language/javascript.md",
+                "file": "topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "language/javascript.md"
+                "file": "topics.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "1372a3aaba5b25fc",
   "lastOpenFiles": [
-    "language/language.md",
     "language/javascript.md",
+    "language/language.md",
     "frameworks/spring/spring-ecosystem.md",
     "frameworks/spring/spring-cloud.md",
     "frameworks/spring/spring.md",
