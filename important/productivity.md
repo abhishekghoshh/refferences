@@ -1,5 +1,45 @@
 
-### Introduction
+### Terminal Command
+- [15 Terminal Commands that will BOOST your Productivity](https://www.youtube.com/watch?v=tD8qzBmi-t0)
+- [60 Linux Commands you NEED to know (in 10 minutes)](https://www.youtube.com/watch?v=gd7BXuUQ91w)
+
+
+### Mac terminal shortcuts
+- [50 macOS Tips and Tricks Using Terminal (the last one is CRAZY!)](https://www.youtube.com/watch?v=qOrlYzqXPa8)
+
+#### VSCode shortcuts and extensions
+- [Code faster with these VS Code shortcuts](https://www.youtube.com/watch?v=dLzMz2Jk_qU)
+- [The Best VSCode Extensions 2023](https://www.youtube.com/watch?v=YjhkcvS1xKU)
+- [25 VS Code Productivity Tips and Speed Hacks](https://www.youtube.com/watch?v=ifTF3ags0XI)
+- [26 Best VSCode Extensions for 2024](https://www.youtube.com/watch?v=uSIseycqOhA)
+
+
+### Tmux configuration
+- [Tmux has forever changed the way I write code.](https://www.youtube.com/watch?v=DzNmUNvnB04)
+- [TMUX and Terminal configuration](https://www.youtube.com/playlist?list=PLsz00TDipIfct4F3pHv6_uI9OyjphQEGZ)
+- [I made the greatest tool ever! | tmux & cht.sh & fzf](https://www.youtube.com/watch?v=hJzqEAf2U4I)
+- [My Developer Workflow - How I use i3, tmux, and vim](https://www.youtube.com/watch?v=bdumjiHabhQ)
+- [How I Use Tmux With Neovim For An Awesome Dev Workflow On My Mac](https://www.youtube.com/watch?v=U-omALWIBos)
+- [My AMAZING Terminal Setup - Hyper, Oh My Zsh, Fig.io, and More!](https://www.youtube.com/watch?v=SyOnB1qvPn0)
+- [This plugin makes you a Vim and TMUX GOD](https://www.youtube.com/watch?v=qyV_hOtMdwg)
+- [you need to learn tmux RIGHT NOW!!](https://www.youtube.com/watch?v=nTqu6w2wc68)
+- [How To Make Your Boring Mac Terminal So Much Better](https://www.youtube.com/watch?v=CF1tMjvHDRA)
+- [Learn tmux](https://www.youtube.com/playlist?list=PLT98CRl2KxKGiyV1u6wHDV8VwcQdzfuKe)
+
+
+### Others
+- [Make Windows Terminal look amazing!](https://www.youtube.com/watch?v=AK2JE2YsKto)
+- [Make Windows Terminal Look Better | Oh My Posh Guide](https://www.youtube.com/watch?v=-G6GbXGo4wo)
+
+
+### Neovim
+#### Blogs 
+- [Learn Neovim The Practical Way](https://alpha2phi.medium.com/learn-neovim-the-practical-way-8818fcf4830f#545a)
+- **Cheetsheet**
+	- [shortcutfoo](https://www.shortcutfoo.com/app/dojos/neovim/cheatsheet)
+	- [devhints](https://devhints.io/vim)
+	- [...more](https://www.google.com/search?q=vim+cheatsheet&rlz=1C5CHFA_enIN999IN1000&oq=vim+cheatsheet&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIJCAQQABgKGIAEMggIBRAAGBYYHjIICAYQABgWGB4yCggHEAAYChgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCDI2OTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+#### Introduction
 - [Vim Tutorial for Beginners](https://www.youtube.com/watch?v=RZ4p-saaQkc)
 - [PDE: A different take on editing code](https://www.youtube.com/watch?v=QMVIJhC9Veg)
 - [Effective Neovim: Instant IDE](https://www.youtube.com/watch?v=stqUbv-5u2s)
@@ -26,7 +66,7 @@
 	- [TakeTuesday E03: Introduction to LuaSnip](https://www.youtube.com/watch?v=Dn800rlPIho)
 
 
-### Install neovim with lua-jit
+#### Install neovim with lua-jit
 ```
 sudo apt update && sudo apt upgrade -y
 sudo apt install ninja-build gettext libtool libtool-bin autoconf automake cmake g++ pkg-config unzip curl
@@ -62,17 +102,4 @@ source ~/.zshrc
 		- vertical ( space + v )
 
 
-#### Tmux configuration
-- [Tmux has forever changed the way I write code.](https://www.youtube.com/watch?v=DzNmUNvnB04)
-- [TMUX and Terminal configuration](https://www.youtube.com/playlist?list=PLsz00TDipIfct4F3pHv6_uI9OyjphQEGZ)
-- [I made the greatest tool ever! | tmux & cht.sh & fzf](https://www.youtube.com/watch?v=hJzqEAf2U4I)
-- [My Developer Workflow - How I use i3, tmux, and vim](https://www.youtube.com/watch?v=bdumjiHabhQ)
-- [How I Use Tmux With Neovim For An Awesome Dev Workflow On My Mac](https://www.youtube.com/watch?v=U-omALWIBos)
-- [My AMAZING Terminal Setup - Hyper, Oh My Zsh, Fig.io, and More!](https://www.youtube.com/watch?v=SyOnB1qvPn0)
-- [This plugin makes you a Vim and TMUX GOD](https://www.youtube.com/watch?v=qyV_hOtMdwg)
 
-
-### Others
-- [Make Windows Terminal look amazing!](https://www.youtube.com/watch?v=AK2JE2YsKto)
-- [Make Windows Terminal Look Better | Oh My Posh Guide](https://www.youtube.com/watch?v=-G6GbXGo4wo)
-- [15 Terminal Commands that will BOOST your Productivity](https://www.youtube.com/watch?v=tD8qzBmi-t0)

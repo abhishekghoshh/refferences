@@ -6,9 +6,7 @@
 - [How to Negotiate Your Job Offer - Prof. Deepak Malhotra (Harvard Business School)](https://www.youtube.com/watch?v=km2Hd_xgo9Q)
 - [How to "think" (and design) like a Software Architect at Silicon Valley Code Camp 2019](https://www.youtube.com/watch?v=mCM6QVHD08c)
 - [Algorithms to Live By | Brian Christian & Tom Griffiths | Talks at Google](https://www.youtube.com/watch?v=OwKj-wgXteo&list=WL&index=2)
-
-### Software design helping tutorials
-- [Clean Code](https://udemy.com/course/writing-clean-code/)
+- [How to Get a Developer Job – Even in This Economy](https://www.youtube.com/watch?v=6nz8GXjxiHg)
 
 
 ### Sample coding interview
@@ -19,10 +17,14 @@
 - [Mock Coding Interview with @SinghinUSA, Microsoft Software Engineer, YouTuber-Data Structures & Algo](https://www.youtube.com/watch?v=zGKFSB1tU1c)
 - [Mock Coding Interview with incoming SDE at Microsoft - @NishantChahar11, YouTuber with 50K+ subs](https://www.youtube.com/watch?v=MFkqnGiCCiU)
 - [Google Coding Interview by @clem-ex Google, ex Facebook Engineer](https://www.youtube.com/watch?v=JHzX-57dgn0)
+- [Mock Google Coding Interview with a Meta Intern](https://www.youtube.com/watch?v=46dZH7LDbf8)
+
+
 ### Coding
 - [takeuforward](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 - [neetcode](https://neetcode.io/practice)
 - [Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf](https://github.com/kaushik27mishra/Daily_Practice_CP-DSA/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf)
+
 
 ### Behavioural Interview
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)

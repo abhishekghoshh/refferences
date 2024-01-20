@@ -3,6 +3,9 @@
 - [This is the BEST Tool for Creating Golang Projects](https://www.youtube.com/watch?v=-8XKrQUexrQ)
 - [Why Golang Developers HATE Gorm…](https://www.youtube.com/watch?v=iRVROuZpzFk)
 
+### Different projects in go by blogs and website
+- [boot.dev](https://www.boot.dev/tracks/backend)
+- [codecrafters](https://app.codecrafters.io/catalog)
 
 ### Online resources
 - [Go by Example](https://gobyexample.com/)
@@ -62,7 +65,6 @@
 - [Golang: gorm with MySQL and gin](https://blog.canopas.com/golang-gorm-with-mysql-and-gin-ab876f406244)
 - [Mocking Techniques for Go](https://www.myhatchpad.com/insight/mocking-techniques-for-go/)
 ### Microservices
-
 - [REST based microservices API development in Golang](https://udemy.com/course/rest-based-microservices-api-development-in-go-lang)
 - [Backend Master Class Golang + Postgres + Kubernetes + gRPC](https://udemy.com/course/backend-master-class-golang-postgresql-kubernetes/)
 - [Working with Microservices in Go (Golang)](https://udemy.com/course/working-with-microservices-in-go)

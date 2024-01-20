@@ -1,4 +1,9 @@
 
+### System Design roadmap blogs
+- [System Design Roadmap | AlgoPrep](https://whimsical.com/system-design-roadmap-31C9vnRRATGW5Q95Krdciu)
+- [System Design Roadmap | TakeYouForward](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/)
+
+
 ### System design roadmap
 - [System Design Roadmap with Videos/Blogs for Everyone - Interviews and Kickstart Career](https://www.youtube.com/watch?v=3baWzvEDfgU)
 - [Books on System Design and System Design Interviews | System Architecture | Top 5 recommendations](https://www.youtube.com/watch?v=5dqvbDModlw)
@@ -13,18 +18,31 @@
 - [Zerodha and POSTGRESQL](https://zerodha.tech/blog/working-with-postgresql/)
 - [Netflix System Design- Backend Architecture](https://dev.to/gbengelebs/netflix-system-design-backend-architecture-10i3)
 
+### Udemy tutorials
+- [REST API vs GraphQL vs gRPC - The Complete Guide](https://thoughtworks.udemy.com/course/rest-api-vs-graphql-vs-grpc-the-complete-guide/)
+- [SOLID Principles: Introducing Software Architecture & Design](https://www.udemy.com/course/solid-design/)
+- [Software Architecture: REST API Design - The Complete Guide](https://www.udemy.com/course/rest-api-design-the-complete-guide/)
+- [Clean Code](https://www.udemy.com/course/writing-clean-code/)
+- [Fundamentals of Backend Engineering](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/)
+- [Design Microservices Architecture with Patterns & Principles](https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/)
+
+
 ### PDF
 - [System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf](https://github.com/G33kzD3n/Catalogue/blob/master/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Xu%20(z-lib.org).pdf)
 - [System Design Interview – An Insider's Guide: Volume 2](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/?utm_source=youtube)
 - [Grokking-the-system-design-interviewpdf-5-pdf-free (1).pdf](https://github.com/G33kzD3n/Catalogue/blob/master/Grokking-the-system-design-interviewpdf-5-pdf-free%20(1).pdf)
 - [Designing Data-Intensive Applications - Martin Kleppmann.pdf](https://github.com/ms2ag16/Books/blob/master/Designing%20Data-Intensive%20Applications%20-%20Martin%20Kleppmann.pdf)
+
+
 ### Single youtube videos
+- [How to OVER Engineer a Website // What is a Tech Stack?](https://www.youtube.com/watch?v=Sxxw3qtb3_g)
 - [Netflix Migrates to GraphQL From MY DATA SERVICE!!! YAY!!! | Prime Reacts](https://www.youtube.com/watch?v=yab6i9lrEv0)
 - [How Dukaan moved out of Cloud and are hosting their infra on Bare Metal ft. Subhash Choudhary](https://www.youtube.com/watch?v=vFxQyZX84Ro)
 - [Dependency Injection | Prime Reacts](https://www.youtube.com/watch?v=CK_OY_gZrCE)
 - [HTTP3 Is Eating The World | Prime Reacts](https://www.youtube.com/watch?v=-jlYeQ3hOhY)
 - [When You Give Programmers a HUGE Database](https://www.youtube.com/watch?v=14o-4XKiZzA)
 - [I Made a Search Engine](https://www.youtube.com/watch?v=e-pNNZq9JEA)
+
 
 ### How services store/process big amount of messages/videos/datas
 - [50 BILLION MESSAGES PER DAY WITH 32 ENGINEERS | Prime Reacts](https://www.youtube.com/watch?v=78k5-LZwLBo)
@@ -90,10 +108,4 @@
 - [Milan Jovanović](https://www.youtube.com/@MilanJovanovicTech/playlists)
 - [Web Dev Cody](https://www.youtube.com/@WebDevCody/playlists)
 
-### Udemy tutorials
-- [REST API vs GraphQL vs gRPC - The Complete Guide](https://thoughtworks.udemy.com/course/rest-api-vs-graphql-vs-grpc-the-complete-guide/)
-- [SOLID Principles: Introducing Software Architecture & Design](https://www.udemy.com/course/solid-design/)
-- [Software Architecture: REST API Design - The Complete Guide](https://www.udemy.com/course/rest-api-design-the-complete-guide/)
-- [Clean Code](https://www.udemy.com/course/writing-clean-code/)
-- [Fundamentals of Backend Engineering](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/)
-- [Design Microservices Architecture with Patterns & Principles](https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/)
+

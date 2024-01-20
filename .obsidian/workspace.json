@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "546ce6efc8bc7c53",
+            "id": "2f82609298648421",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "important/git.md",
+                "file": "important/linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9959df8a54b3b327",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cloud/CICDE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "important/git.md",
+                "file": "important/linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "important/git.md",
+                "file": "important/linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "important/git.md"
+                "file": "important/linux.md"
               }
             }
           }
@@ -146,17 +158,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "546ce6efc8bc7c53",
+  "active": "2f82609298648421",
   "lastOpenFiles": [
-    "important/tech-Interview.md",
-    "important/system-design.md",
-    "important/neovim.md",
+    "cloud/cloud.md",
+    "cloud/CICDE.md",
     "important/linux.md",
-    "important/networking.md",
-    "important/git.md",
-    "important/my-personal-vm.md",
+    "important/productivity.md",
+    "important/system-design.md",
+    "important/tech-Interview.md",
+    "language/language.md",
+    "language/javascript.md",
     "important/important.md",
+    "important/obsidian.md",
+    "important/ds-algo.md",
     "important/shell.md",
+    "language/golang.md",
+    "important/git.md",
+    "important/networking.md",
+    "important/my-personal-vm.md",
     "database/redis.md",
     "others/lsp.md",
     "pdf/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf",
@@ -168,13 +187,6 @@
     "important/design-patterns.md",
     "database/kafka.md",
     "AI/AI-tools.md",
-    "AI/AI.md",
-    "others/noVNC.md",
-    "others/Mathematics.md",
-    "others/others.md",
-    "others/Raspberry-Pi.md",
-    "language/golang.md",
-    "database/database.md",
     "pdf/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf",
     "pdf/designing-data-intensive-applications.pdf",
     "designing-data-intensive-applications.pdf",

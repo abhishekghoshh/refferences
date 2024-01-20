@@ -1,5 +1,6 @@
 ### topics
 - [[java]]
+- [[javascript]]
 - [[scala]]
 - [[golang]]
 - [[rust]]
