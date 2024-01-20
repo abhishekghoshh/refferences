@@ -2,6 +2,8 @@
 ### Terminal Command
 - [15 Terminal Commands that will BOOST your Productivity](https://www.youtube.com/watch?v=tD8qzBmi-t0)
 - [60 Linux Commands you NEED to know (in 10 minutes)](https://www.youtube.com/watch?v=gd7BXuUQ91w)
+- [local pdf](obsidian://open?vault=Refferences&file=pdf%2FCommand%2BReference.pdf)
+- [The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
 
 
 ### Mac terminal shortcuts

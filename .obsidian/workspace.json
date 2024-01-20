@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "29acd3f7897b55ef",
+        "id": "19aac5858e140636",
         "type": "tabs",
         "children": [
           {
-            "id": "2f82609298648421",
+            "id": "1372a3aaba5b25fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "important/linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9959df8a54b3b327",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cloud/CICDE.md",
+                "file": "language/java.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "important/linux.md",
+                "file": "language/java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "important/linux.md",
+                "file": "language/java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "important/linux.md"
+                "file": "language/java.md"
               }
             }
           }
@@ -158,13 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f82609298648421",
+  "active": "1372a3aaba5b25fc",
   "lastOpenFiles": [
-    "cloud/cloud.md",
-    "cloud/CICDE.md",
-    "important/linux.md",
+    "frameworks/spring/spring-reactive.md",
+    "language/java.md",
+    "frameworks/spring/spring-kubernetes.md",
+    "frameworks/spring/spring.md",
+    "frameworks/spring/spring-ecosystem.md",
     "important/productivity.md",
+    "frameworks/spring/spring-github-actions.md",
+    "important/linux.md",
     "important/system-design.md",
+    "pdf/Command+Reference.pdf",
+    "important/open-source.md",
+    "pdf/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf",
+    "cloud/CICDE.md",
+    "important/networking.md",
+    "cloud/cloud.md",
     "important/tech-Interview.md",
     "language/language.md",
     "language/javascript.md",
@@ -174,19 +172,10 @@
     "important/shell.md",
     "language/golang.md",
     "important/git.md",
-    "important/networking.md",
     "important/my-personal-vm.md",
     "database/redis.md",
     "others/lsp.md",
-    "pdf/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf",
-    "language/java.md",
     "language/rust.md",
-    "frameworks/frameworks.md",
-    "frameworks/Micronaut.md",
-    "frameworks/Helidon-Nima.md",
-    "important/design-patterns.md",
-    "database/kafka.md",
-    "AI/AI-tools.md",
     "pdf/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf",
     "pdf/designing-data-intensive-applications.pdf",
     "designing-data-intensive-applications.pdf",
@@ -195,7 +184,6 @@
     "pdf/Designing Data-Intensive Applications - Martin Kleppmann.pdf",
     "pdf/d60fa09a-c4b5-4e31-9dbd-5d049c6c8f49.pdf.pdf",
     "pdf/Sd_Blueprint.pdf",
-    "pdf/Kubernetes_Tools_Ecosystem.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
