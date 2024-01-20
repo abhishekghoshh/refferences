@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "language/java.md",
+                "file": "language/javascript.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "language/java.md",
+                "file": "language/javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "language/java.md",
+                "file": "language/javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "language/java.md"
+                "file": "language/javascript.md"
               }
             }
           }
@@ -148,11 +148,14 @@
   },
   "active": "1372a3aaba5b25fc",
   "lastOpenFiles": [
-    "frameworks/spring/spring-reactive.md",
-    "language/java.md",
-    "frameworks/spring/spring-kubernetes.md",
-    "frameworks/spring/spring.md",
+    "language/language.md",
+    "language/javascript.md",
     "frameworks/spring/spring-ecosystem.md",
+    "frameworks/spring/spring-cloud.md",
+    "frameworks/spring/spring.md",
+    "language/java.md",
+    "frameworks/spring/spring-reactive.md",
+    "frameworks/spring/spring-kubernetes.md",
     "important/productivity.md",
     "frameworks/spring/spring-github-actions.md",
     "important/linux.md",
@@ -164,8 +167,6 @@
     "important/networking.md",
     "cloud/cloud.md",
     "important/tech-Interview.md",
-    "language/language.md",
-    "language/javascript.md",
     "important/important.md",
     "important/obsidian.md",
     "important/ds-algo.md",
@@ -175,7 +176,6 @@
     "important/my-personal-vm.md",
     "database/redis.md",
     "others/lsp.md",
-    "language/rust.md",
     "pdf/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf",
     "pdf/designing-data-intensive-applications.pdf",
     "designing-data-intensive-applications.pdf",
