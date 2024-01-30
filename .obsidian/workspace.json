@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a3be948ef3c42efd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "frameworks/spring/spring-security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1372a3aaba5b25fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topics.md",
+                "file": "cloud/kubernetes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "topics.md",
+                "file": "cloud/kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "topics.md",
+                "file": "cloud/kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "topics.md"
+                "file": "cloud/kubernetes.md"
               }
             }
           }
@@ -148,16 +161,24 @@
   },
   "active": "1372a3aaba5b25fc",
   "lastOpenFiles": [
-    "language/javascript.md",
-    "language/language.md",
+    "frameworks/spring/spring-jpa.md",
+    "frameworks/spring/spring-security.md",
+    "cloud/kubernetes.md",
+    "cloud/podman.md",
+    "important/productivity.md",
     "frameworks/spring/spring-ecosystem.md",
-    "frameworks/spring/spring-cloud.md",
-    "frameworks/spring/spring.md",
-    "language/java.md",
     "frameworks/spring/spring-reactive.md",
     "frameworks/spring/spring-kubernetes.md",
-    "important/productivity.md",
+    "frameworks/spring/spring-kafka.md",
     "frameworks/spring/spring-github-actions.md",
+    "frameworks/spring/spring-cloud.md",
+    "frameworks/spring/spring-aws.md",
+    "frameworks/spring/spring.md",
+    "frameworks/frameworks.md",
+    "topics.md",
+    "language/javascript.md",
+    "language/language.md",
+    "language/java.md",
     "important/linux.md",
     "important/system-design.md",
     "pdf/Command+Reference.pdf",
@@ -168,14 +189,6 @@
     "cloud/cloud.md",
     "important/tech-Interview.md",
     "important/important.md",
-    "important/obsidian.md",
-    "important/ds-algo.md",
-    "important/shell.md",
-    "language/golang.md",
-    "important/git.md",
-    "important/my-personal-vm.md",
-    "database/redis.md",
-    "others/lsp.md",
     "pdf/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf",
     "pdf/designing-data-intensive-applications.pdf",
     "designing-data-intensive-applications.pdf",

@@ -46,3 +46,6 @@
 	- [Spring Security Patterns](https://www.youtube.com/watch?v=xEnvAAhMGu4)
 	- [Security Patterns for Microservice Architectures](https://www.youtube.com/watch?v=s4wsqYaZJ2s)
 	- [Spring Security 5.5 From Taxi to Takeoff](https://www.youtube.com/watch?v=5tlU_Vjv8Ns)
+- #### Pro Coder
+	- [Security - Locking Down Your App with Spring Boot](https://www.youtube.com/playlist?list=PLLAi7xIKHkitHMvIGTNtyf_PGAup5msCX)
+	
