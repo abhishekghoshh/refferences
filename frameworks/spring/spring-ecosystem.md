@@ -54,15 +54,38 @@
 ### Udemy
 
 
-#### Spring  courses
+#### Microservices with spring
 - [Microservices with Spring Boot, Spring Cloud, Docker, K8s](https://www.udemy.com/course/microservices-with-spring-boot/)
 - [Master Microservices with SpringBoot,Docker,Kubernetes](https://udemy.com/course/master-microservices-with-spring-docker-kubernetes)
 - [Master Spring Boot Microservices with CQRS & Event Sourcing](https://udemy.com/course/master-spring-boot-microservices-with-cqrs-event-sourcing)
 - [Event-Driven Microservices, CQRS, SAGA, Axon, Spring Boot](https://udemy.com/course/spring-boot-microservices-cqrs-saga-axon-framework)
 - [Microservices: Clean Architecture, DDD, SAGA, Outbox & Kafka](https://www.udemy.com/course/microservices-clean-architecture-ddd-saga-outbox-kafka-kubernetes/)
+- [Building Real-Time REST APIs with Spring Boot - Blog App](https://udemy.com/course/building-real-time-rest-apis-with-spring-boot)
 
 
+#### Spring cloud 
+- [Spring Cloud Fundamentals](https://udemy.com/course/spring-cloud-fundamentals/)
+- [Master Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/)
+- [Spring Boot Microservices and Spring Cloud. Build & Deploy.](https://udemy.com/course/spring-boot-microservices-and-spring-cloud)
 
-#### Long Udemy tutorial
+
+#### Spring tutorial
+- [Master Java Web Services and REST API with Spring Boot](https://thoughtworks.udemy.com/course/spring-web-services-tutorial)
+- [Spring Framework Master Class - Java Spring the Modern Way](https://udemy.com/course/spring-tutorial-for-beginners)
+- [Master Modern Spring Boot, Spring Web MVC, AOP, Hibernate, Thymeleaf, JPA, Spring Security, RESTful services](https://udemy.com/course/spring-framework-web-development-2020/)
 - [Spring Boot 3, Spring 6 & Hibernate for Beginners](https://udemy.com/course/spring-hibernate-tutorial)
 - [Master Spring 6, Spring Boot 3, REST, JPA, Hibernate](https://udemy.com/course/spring-springboot-jpa-hibernate-zero-to-master)
+
+
+#### Reactive Programming
+- [Reactive Programming with Spring Framework 5](https://udemy.com/course/reactive-programming-with-spring-framework-5/)
+- [Build Reactive MicroServices using Spring WebFlux/SpringBoot](https://udemy.com/course/build-reactive-restful-apis-using-spring-boot-webflux)
+- [Spring WebFlux Masterclass: Reactive Microservices](https://udemy.com/course/spring-webflux)
+
+#### Batch processing 
+- [Batch Processing with Spring Batch & Spring Boot](https://www.udemy.com/course/data-batch-processing-with-spring-batch-spring-boot-spring-framework/)
+
+
+#### GraphQL
+- [GraphQL API with Java Spring Boot & Spring Framework](https://www.udemy.com/course/graphql-with-java-spring-boot-query-mutation-schema-resolver-edge-jpa/)
+
