@@ -1,5 +1,7 @@
 
 ### Terminal Command
+- [Become a shell wizard in ~12 mins](https://www.youtube.com/watch?v=IYZDIhfAUM0)
+- [Linux Command Line Basics](https://www.udemy.com/course/linux-command-line-volume1/)
 - [15 Terminal Commands that will BOOST your Productivity](https://www.youtube.com/watch?v=tD8qzBmi-t0)
 - [60 Linux Commands you NEED to know (in 10 minutes)](https://www.youtube.com/watch?v=gd7BXuUQ91w)
 - [10 Linux Commands Every Software Engineer MUST Know!](https://www.youtube.com/watch?v=ubZzoLB-aok)
@@ -8,6 +10,10 @@
 - [Linux Command Line Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
 - [Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
 - [The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
+- [18 Commands That Will Change The Way You Use Linux Forever](https://www.youtube.com/watch?v=AVXYq8aL47Q)
+- [7 Essential Command Line Tools (2022)](https://www.youtube.com/watch?v=2OHrTQVlRMg)
+- [6 AWESOME Command Line Tools For MAC And LINUX](https://www.youtube.com/watch?v=szehPBOwqlI)
+- [The BEST CLI Tool | jq tool for text parsing](https://www.youtube.com/watch?v=n8sOmEe2SDg)
 
  
 ### Mac terminal shortcuts
@@ -31,6 +37,8 @@
 - [you need to learn tmux RIGHT NOW!!](https://www.youtube.com/watch?v=nTqu6w2wc68)
 - [How To Make Your Boring Mac Terminal So Much Better](https://www.youtube.com/watch?v=CF1tMjvHDRA)
 - [Learn tmux](https://www.youtube.com/playlist?list=PLT98CRl2KxKGiyV1u6wHDV8VwcQdzfuKe)
+- [Tmux Tutorial for Beginners](https://www.youtube.com/watch?v=U41BTVZLKB0)
+- [Tmux From Scratch To BEAST MODE](https://www.youtube.com/watch?v=GH3kpsbbERo)
 
 
 ### Others
@@ -46,6 +54,7 @@
 	- [devhints](https://devhints.io/vim)
 	- [...more](https://www.google.com/search?q=vim+cheatsheet&rlz=1C5CHFA_enIN999IN1000&oq=vim+cheatsheet&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIJCAQQABgKGIAEMggIBRAAGBYYHjIICAYQABgWGB4yCggHEAAYChgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCDI2OTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
 #### Introduction
+- [Vim Motions for absolute beginners!!!](https://www.youtube.com/watch?v=lWTzqPfy1gE)
 - [Vim Tutorial for Beginners](https://www.youtube.com/watch?v=RZ4p-saaQkc)
 - [PDE: A different take on editing code](https://www.youtube.com/watch?v=QMVIJhC9Veg)
 - [Effective Neovim: Instant IDE](https://www.youtube.com/watch?v=stqUbv-5u2s)
@@ -109,3 +118,8 @@ source ~/.zshrc
 
 
 
+#### Other IDE
+- Zed
+	- [This VS Code Killer Just Went Open Source (Written In Rust BTW)](https://www.youtube.com/watch?v=ZOYp6-k9HhE)
+	- [zed.dev](https://zed.dev/blog/zed-is-now-open-source)
+	- [zed-github](https://github.com/zed-industries/zed)

@@ -34,7 +34,19 @@
 - [Designing Data-Intensive Applications - Martin Kleppmann.pdf](https://github.com/ms2ag16/Books/blob/master/Designing%20Data-Intensive%20Applications%20-%20Martin%20Kleppmann.pdf)
 
 
+
+### Building a product from scratch
+- **Vercel**
+	- [Code along - I built Vercel in 4 Hours (System Design, AWS, Redis, S3)](https://www.youtube.com/watch?v=c8_tafixiAs)
+	- [I built Vercel in 2 Hours (System Design, AWS, Docker, Redis, S3)](https://www.youtube.com/watch?v=0A_JpLYG7hM)
+
+
+
 ### Single youtube videos
+- [Software Engineering](https://www.youtube.com/playlist?list=PL6x5Q-Sj_BlbrbQP3alEVrJ4dA8JQW-HG)
+- [20 System Design Concepts Explained in 10 Minutes](https://www.youtube.com/watch?v=i53Gi_K3o7I)
+- [Everything You NEED to Know About Client Architecture Patterns](https://www.youtube.com/watch?v=I5c7fBgvkNY)
+- [Hexagonal Architecture: What You Need To Know - Simple Explanation](https://www.youtube.com/watch?v=bDWApqAUjEI)
 - [How to OVER Engineer a Website // What is a Tech Stack?](https://www.youtube.com/watch?v=Sxxw3qtb3_g)
 - [Netflix Migrates to GraphQL From MY DATA SERVICE!!! YAY!!! | Prime Reacts](https://www.youtube.com/watch?v=yab6i9lrEv0)
 - [How Dukaan moved out of Cloud and are hosting their infra on Bare Metal ft. Subhash Choudhary](https://www.youtube.com/watch?v=vFxQyZX84Ro)
@@ -42,6 +54,8 @@
 - [HTTP3 Is Eating The World | Prime Reacts](https://www.youtube.com/watch?v=-jlYeQ3hOhY)
 - [When You Give Programmers a HUGE Database](https://www.youtube.com/watch?v=14o-4XKiZzA)
 - [I Made a Search Engine](https://www.youtube.com/watch?v=e-pNNZq9JEA)
+
+
 
 
 ### How services store/process big amount of messages/videos/datas
@@ -64,6 +78,7 @@
 
 
 ### Popular youtube channels
+- [Alex Hyett](https://www.youtube.com/@alexhyettdev/playlists)
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo/playlists)
 - [ByteMonk](https://www.youtube.com/@ByteMonk/playlists)
 - [Jordan has no life](https://www.youtube.com/@jordanhasnolife5163/playlists)

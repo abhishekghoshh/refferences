@@ -31,8 +31,9 @@
 
 #### Reflections and Annotation
 - [Reflections and Annotation in Java Uncomplicated](https://www.udemy.com/course/reflections-and-annotation-in-java-uncomplicated/)
+- [Advanced Java Topics: Java Reflection - Master Class](https://www.udemy.com/course/java-reflection-master-class/)
 
 #### Multithreading
 - [Multithreading,Parallel & Asynchronous Coding in Modern Java](https://www.udemy.com/course/parallel-and-asynchronous-programming-in-modern-java/)
 - [Concurrency, Multithreading and Parallel Computing in Java](https://www.udemy.com/course/multithreading-and-parallel-computing-in-java/)
-- 
+

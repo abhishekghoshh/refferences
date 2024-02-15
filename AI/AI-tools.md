@@ -1,4 +1,12 @@
 
+#### Web design
+- [Top 2024 Web Design Trends](https://www.youtube.com/watch?v=qthkkHPNAYQ)
+
+
+#### Web tool
+- [figma](https://www.figma.com/)
+
+
 ### Youtube videos
 - [23 AI Tools You Won't Believe are Free](https://www.youtube.com/watch?v=ZYUt4WE4Mrw)
 - [28 AI Tools You'll Be Shocked Are Free](https://www.youtube.com/watch?v=mzbuYus8bH4)

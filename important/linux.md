@@ -1,6 +1,7 @@
 ### Introduction
 - [cpu.land](https://cpu.land/the-basics)
 ### Full tutorial :
+- [Linux Essential Tools](https://www.youtube.com/playlist?list=PLpwHBRQVCyJP8Ta47vIgvG1rilqsU8_Pm)
 - [Bash Scripting Tutorial – Linux Shell Script and Command Line for Beginners](https://www.youtube.com/watch?v=sWbUDq4S6Y8) [Blog](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)
 - [How to Configure and Operate Linux Servers - Full Course](https://www.youtube.com/watch?v=WMy3OzvBWc0)[Blog](https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/)
 - [Linux Commands for Beginners](https://www.youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ)
@@ -24,12 +25,12 @@
 - [I Forced Myself to Use Linux For 30 Days (Linux Challenge)](https://www.youtube.com/watch?v=moYwK0YMFjQ)
 
 #### Linux filesystem
+- [How Does Linux Boot Process Work?](https://www.youtube.com/watch?v=XpFsMB6FoOs)
 - [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)
 - [Linux File System/Structure Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw)
 
 
 #### Youtube tutorials
-- [How Does Linux Boot Process Work?](https://www.youtube.com/watch?v=XpFsMB6FoOs)
 - [Kali Linux on Windows in 5min (WSL 2 GUI)](https://www.youtube.com/watch?v=AfVH54edAHU)
 - [you need to learn Virtual Machines RIGHT NOW!! (Kali Linux VM, Ubuntu, Windows)](https://www.youtube.com/watch?v=wX75Z-4MEoM)
 - [Virtual Machines Pt. 2 (Proxmox install w/ Kali Linux)](https://www.youtube.com/watch?v=_u8qTN3cCnQ)

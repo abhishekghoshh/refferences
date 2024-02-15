@@ -1,10 +1,10 @@
-### Udemy tutorials :
+#### Udemy tutorials :
 - [Master Hibernate and JPA with Spring Boot in 100 Steps](https://udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/)
 - [Spring Data JPA Using Hibernate](https://udemy.com/course/spring-data-jpa-using-hibernate/)
 - [Hibernate and Spring Data JPA: Beginner to Guru](https://udemy.com/course/hibernate-and-spring-data-jpa-beginner-to-guru/)
 
 
-### youtube tutorials :
+#### youtube tutorials :
 - [Spring Data JPA Tutorial | Full In-depth Course](https://www.youtube.com/watch?v=XszpXoII9Sg)
 - [Spring Transactions Tutorial | Spring Boot - Daily Code Buffer](https://www.youtube.com/watch?v=raWaxW_clqo)
 - [MySQL Integration with Spring Boot Application | Daily Code Buffer](https://www.youtube.com/watch?v=qsioDgfs7jc)

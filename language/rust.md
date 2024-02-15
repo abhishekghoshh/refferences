@@ -3,7 +3,22 @@
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/#rust-by-example)
 - [practice.rs](https://practice.rs/why-exercise.html)
 
+
+### Udemy tutorial 
+- [Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course/)
+- [Ultimate Rust 2: Intermediate Concepts](https://www.udemy.com/course/ultimate-rust-2/)
+- [Learn Rust by Building Real Applications](https://udemy.com/course/rust-fundamentals/)
+- [Rust Programming Course: From Beginner to Expert](https://udemy.com/course/rust-programming-master-class-from-beginner-to-expert/)
+- [The Complete Rust Programming Course](https://udemy.com/course/rust-programming-the-complete-guide/)
+- [Rust lang: The complete beginner's guide](https://udemy.com/course/rustaceans/)
+- [The Rust Programming Language](https://udemy.com/course/rust-lang/)
+- [Rust & WebAssembly with JS (TS) - The Practical Guide](https://udemy.com/course/rust-webassembly-with-js-ts-the-practical-guide/)
+
+#### grpc
+- [Building micro-services in Rust using gRPC!](https://www.youtube.com/watch?v=JkSa-qA2jnY)
+
 ### Rust intro videos : 
+- [I spent six months rewriting everything in Rust](https://www.youtube.com/watch?v=vL2nB1VwX1M)
 - [Should Rust be your first programming language?](https://www.youtube.com/watch?v=J4slMaFWCcg)
 - [Why Rust is bad, actually*](https://www.youtube.com/watch?v=4pOd7Fk84VA)
 - [10 Reasons Not To Use Rust (The Whole Truth)](https://www.youtube.com/watch?v=ul9vyWuT8SU)

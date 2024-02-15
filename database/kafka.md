@@ -11,4 +11,10 @@
 - [System Design: Why is Kafka fast?](https://www.youtube.com/watch?v=UNUz1-msbOM)
 - [Apache Kafka vs message queue explained](https://www.youtube.com/watch?v=7gMm0iQNZGA)
 - [What is a Message Queue and When should you use Messaging Queue Systems Like RabbitMQ and Kafka](https://www.youtube.com/watch?v=W4_aGb_MOls)
-- 
+
+
+
+#### Udemy tutorial
+- [Apache Kafka for absolute beginners](https://www.udemy.com/course/apache-kafka-for-beginners/)
+- [Apache Kafka for Developers using Spring Boot](https://udemy.com/course/apache-kafka-for-developers-using-springboot/)
+

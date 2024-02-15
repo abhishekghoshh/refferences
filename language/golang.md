@@ -22,6 +22,13 @@
 - [Golang For DevOps And Cloud Engineers](https://www.udemy.com/course/golang-for-devops-and-cloud-engineers/)
 
 
+#### gRPC and Protocol Buffers
+- [Complete Guide to Protocol Buffers 3](https://thoughtworks.udemy.com/course/protocol-buffers/)
+- [gRPC Golang Master Class: Build Modern API & Microservices](https://www.udemy.com/course/grpc-golang/)
+- [Building Web APIs with gRPC - The Complete Guide](https://thoughtworks.udemy.com/course/building-web-apis-with-grpc-the-complete-guide/)
+- [Backend Master Class Golang + Postgres + Kubernetes + gRPC](https://thoughtworks.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/)
+
+
 ### Design patterns
 ##### Online resources 
 - [Design Patterns in Go](https://www.udemy.com/course/design-patterns-go/)

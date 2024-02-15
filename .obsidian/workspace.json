@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "19aac5858e140636",
+        "id": "57c6fd6190f4870f",
         "type": "tabs",
         "children": [
           {
-            "id": "a3be948ef3c42efd",
+            "id": "6e7a2e8d52ab6c64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/redis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1372a3aaba5b25fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "frameworks/spring/spring-ecosystem.md",
+                "file": "important/low-level-programming.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frameworks/spring/spring-ecosystem.md",
+                "file": "important/low-level-programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "frameworks/spring/spring-ecosystem.md",
+                "file": "important/low-level-programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frameworks/spring/spring-ecosystem.md"
+                "file": "important/low-level-programming.md"
               }
             }
           }
@@ -159,36 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1372a3aaba5b25fc",
+  "active": "6e7a2e8d52ab6c64",
   "lastOpenFiles": [
-    "language/java.md",
-    "database/redis.md",
-    "frameworks/spring/spring-security.md",
-    "frameworks/spring/spring-ecosystem.md",
-    "cloud/cloud.md",
-    "cloud/helm.md",
-    "cloud/kubernetes.md",
-    "frameworks/spring/spring-jpa.md",
-    "cloud/podman.md",
+    "AI/AI-tools.md",
+    "AI/AI.md",
     "important/productivity.md",
-    "frameworks/spring/spring-reactive.md",
-    "frameworks/spring/spring-kubernetes.md",
-    "frameworks/spring/spring-kafka.md",
-    "frameworks/spring/spring-github-actions.md",
-    "frameworks/spring/spring-cloud.md",
-    "frameworks/spring/spring-aws.md",
-    "frameworks/spring/spring.md",
-    "frameworks/frameworks.md",
-    "topics.md",
-    "language/javascript.md",
-    "language/language.md",
-    "important/linux.md",
-    "important/system-design.md",
-    "pdf/Command+Reference.pdf",
-    "important/open-source.md",
-    "pdf/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf",
-    "cloud/CICDE.md",
+    "important/obsidian.md",
     "important/networking.md",
+    "important/important.md",
+    "important/low-level-programming.md",
+    "important/regular-expression.md",
+    "important/Untitled 1.md",
+    "important/tech-Interview.md",
+    "important/system-design.md",
+    "language/rust.md",
+    "important/git.md",
+    "language/scala.md",
+    "language/Erlang.md",
+    "important/linux.md",
+    "important/style-guide.md",
+    "important/design-patterns.md",
+    "database/database.md",
+    "cloud/CICDE.md",
+    "pdf/Command+Reference.pdf",
+    "language/java.md",
+    "cloud/github-actions.md",
+    "cloud/helm.md",
+    "cloud/cloud.md",
+    "database/kafka.md",
+    "cloud/kubernetes.md",
+    "pdf/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf",
     "pdf/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf",
     "pdf/designing-data-intensive-applications.pdf",
     "designing-data-intensive-applications.pdf",

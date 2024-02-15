@@ -28,6 +28,7 @@
 - [Install Kubernetes Cluster with kubeadm 2022 (Linux VM/Mac/Windows, x86/Arm)](https://www.youtube.com/watch?v=o6bxo0Oeg6o)
 - [installing kubernetes on linux with a basic understanding](https://www.youtube.com/watch?v=CdeHV4yD6Ww)
 - [Kubernetes v1.26 Cluster Setup with Kubeadm and Containerd on AWS | Updated for 2023](https://www.youtube.com/watch?v=z_w3me8tmJA)
+- [Kubernetes - Create your own k8s cluster step by step](https://www.youtube.com/watch?v=k3iexxiYPI8)
 
 #### podman
 - [Podman vs. Docker](https://www.youtube.com/watch?v=Xx588nbshlM)
