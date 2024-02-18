@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d468162bcddfdf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "frameworks/spring/spring-ecosystem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bec79cbd1bba846",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/AI-tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d77b1c6b53a17bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "important/system-design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cebfccb557b8cf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "important/system-design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "important/low-level-programming.md",
+                "file": "important/system-design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "important/low-level-programming.md",
+                "file": "important/system-design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "important/low-level-programming.md"
+                "file": "important/system-design.md"
               }
             }
           }
@@ -146,35 +195,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e7a2e8d52ab6c64",
+  "active": "1cebfccb557b8cf7",
   "lastOpenFiles": [
+    "important/ds-algo.md",
+    "important/system-design.md",
+    "important/low-level-programming.md",
+    "frameworks/spring/spring-ecosystem.md",
     "AI/AI-tools.md",
+    "frameworks/spring/spring-kubernetes.md",
+    "frameworks/spring/spring-kafka.md",
+    "frameworks/spring/spring-jpa.md",
+    "frameworks/spring/spring-github-actions.md",
+    "frameworks/spring/spring.md",
+    "frameworks/spring/spring-cloud.md",
+    "frameworks/spring/spring-aws.md",
     "AI/AI.md",
     "important/productivity.md",
     "important/obsidian.md",
     "important/networking.md",
     "important/important.md",
-    "important/low-level-programming.md",
     "important/regular-expression.md",
     "important/Untitled 1.md",
     "important/tech-Interview.md",
-    "important/system-design.md",
     "language/rust.md",
     "important/git.md",
     "language/scala.md",
     "language/Erlang.md",
     "important/linux.md",
     "important/style-guide.md",
-    "important/design-patterns.md",
-    "database/database.md",
-    "cloud/CICDE.md",
     "pdf/Command+Reference.pdf",
-    "language/java.md",
-    "cloud/github-actions.md",
-    "cloud/helm.md",
-    "cloud/cloud.md",
-    "database/kafka.md",
-    "cloud/kubernetes.md",
     "pdf/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf",
     "pdf/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf",
     "pdf/designing-data-intensive-applications.pdf",

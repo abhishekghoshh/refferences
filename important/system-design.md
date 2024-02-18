@@ -1,4 +1,9 @@
 
+
+#### Free cloud platform
+- [aiven](https://aiven.io/)
+
+
 ### System Design roadmap blogs
 - [System Design Roadmap | AlgoPrep](https://whimsical.com/system-design-roadmap-31C9vnRRATGW5Q95Krdciu)
 - [System Design Roadmap | TakeYouForward](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/)
@@ -38,8 +43,10 @@
 ### Building a product from scratch
 - **Vercel**
 	- [Code along - I built Vercel in 4 Hours (System Design, AWS, Redis, S3)](https://www.youtube.com/watch?v=c8_tafixiAs)
+		- [Vercel Clone Code Review - Pass or Fail? | Hindi](https://www.youtube.com/watch?v=o7O-BuZwkW0)
 	- [I built Vercel in 2 Hours (System Design, AWS, Docker, Redis, S3)](https://www.youtube.com/watch?v=0A_JpLYG7hM)
-
+		- [Firse Vercel Code Review - PART 2](https://www.youtube.com/watch?v=-rCI-utuYig)
+	- [I Built Vercel in 2 Hours (Kafka, ClickHouse, Postgres) | Log Collection and Pipeline](https://www.youtube.com/watch?v=QPzrIp5kyho)
 
 
 ### Single youtube videos
@@ -54,6 +61,9 @@
 - [HTTP3 Is Eating The World | Prime Reacts](https://www.youtube.com/watch?v=-jlYeQ3hOhY)
 - [When You Give Programmers a HUGE Database](https://www.youtube.com/watch?v=14o-4XKiZzA)
 - [I Made a Search Engine](https://www.youtube.com/watch?v=e-pNNZq9JEA)
+- [Skyrocket Your API Performance with These Techniques](https://www.youtube.com/watch?v=vh6YJxc2o3g)
+- [Most Popular API Architecture Styles | Daily Code Buffer](https://www.youtube.com/watch?v=wBHXY5QDUE0)
+- [These Coding Projects Give You An Unfair Advantage](https://www.youtube.com/watch?v=UYySvyc4M68)
 
 
 
@@ -81,6 +91,7 @@
 - [Alex Hyett](https://www.youtube.com/@alexhyettdev/playlists)
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo/playlists)
 - [ByteMonk](https://www.youtube.com/@ByteMonk/playlists)
+- [sudocode](https://www.youtube.com/@sudocode/playlists)
 - [Jordan has no life](https://www.youtube.com/@jordanhasnolife5163/playlists)
 - [Software Interviews Prep](https://www.youtube.com/@SoftwareInterviewsPrep)
 - [System Design Fight Club](https://www.youtube.com/@SDFC/playlists)

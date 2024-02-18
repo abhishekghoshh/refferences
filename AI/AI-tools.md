@@ -2,14 +2,35 @@
 #### Web design
 - [Top 2024 Web Design Trends](https://www.youtube.com/watch?v=qthkkHPNAYQ)
 
+#### For finding all the AI tools 
+- [thewarehouse](https://www.thewarehouse.ai/)
 
 #### Web tool
 - [figma](https://www.figma.com/)
+- [locofy](https://www.locofy.ai/)
+- [looka](https://looka.com/)
+- [runwayml](https://runwayml.com/)
+- [uizard](https://uizard.io/)
+- [onlycoms](https://onlycoms.com/)
+
+
+
+#### AI generated videos
+- [sora](https://openai.com/sora#research)
+	- [AI Generated Videos Just Changed Forever](https://www.youtube.com/watch?v=NXpdyAWLDas)
+	- [This is incredible](https://www.youtube.com/watch?v=Ld8fYInYVQo)
 
 
 ### Youtube videos
 - [23 AI Tools You Won't Believe are Free](https://www.youtube.com/watch?v=ZYUt4WE4Mrw)
 - [28 AI Tools You'll Be Shocked Are Free](https://www.youtube.com/watch?v=mzbuYus8bH4)
+- [7 AI Tools will Transform your App Idea to REALITY](https://www.youtube.com/watch?v=H6rgeEdgpTA)
+- [How to use AI Art and ChatGPT to Create a Insane Web Designs](https://www.youtube.com/watch?v=8I3NTE4cn5s)
+- [I Tested HUNDREDS Of Ai Design Tools... These Are The BEST!](https://www.youtube.com/watch?v=HkJjXYO2_YY)
+- [How to Get a $1000 Logo Design for FREE Using AI?](https://www.youtube.com/watch?v=275L653HXS0)
+- [I Tried 108 Free AI Tools. These Are The Best](https://www.youtube.com/watch?v=cYOXNI4Gr70)
+- [Top 6 Tools to Transform Your App Idea To Reality | Low code, AI, Design to Code and More](https://www.youtube.com/watch?v=BL3qA-UmNug)
+- 
 
 
 
@@ -18,8 +39,8 @@
 - [Bard](https://bard.google.com/)
 - [phind](https://www.phind.com/)
 
-  
-
+[# All free AI tools. Is this website really free? 🤯🤯 Free! Free! Free!](https://www.youtube.com/watch?v=EmQ2uzTrfU0) </br>
+[10015.io](https://10015.io/) </br>
   
 
 1000+ Marketing prompts for ChatGPT - [https://aimaster.shop](https://aimaster.shop)
