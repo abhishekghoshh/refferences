@@ -1,12 +1,15 @@
 
 #### Books
-- [Crafting Interpreters](https://craftinginterpreters.com/contents.html)
+- [Crafting Interpreters](https://craftinginterpreters.com/contents.html) **book for building interpreter in C/Java**
 - [handmade.network](https://handmade.network/)
 
 #### Youtube tutorial
 - [3 concepts to master the lowest levels of coding (try these right now)](https://www.youtube.com/watch?v=97i2BAUw5Xc)
 - [My 2 Year Journey of Learning C, in 9 minutes](https://www.youtube.com/watch?v=lMvFWKHhVZ0)
-- [2 Years Of Learning C | Prime Reacts](https://www.youtube.com/watch?v=8vQtUleZykQ)
+	- [2 Years Of Learning C | Prime Reacts](https://www.youtube.com/watch?v=8vQtUleZykQ)
+- [10 years of embedded coding in 10 minutes](https://www.youtube.com/watch?v=i2ypCsB93gM)
+
+
 
 
 #### Youtube series

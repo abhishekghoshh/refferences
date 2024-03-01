@@ -6,12 +6,17 @@
 - [thewarehouse](https://www.thewarehouse.ai/)
 
 #### Web tool
+- [eraser.io](https://www.eraser.io/)
 - [figma](https://www.figma.com/)
+- [excalidraw](https://excalidraw.com/)
 - [locofy](https://www.locofy.ai/)
 - [looka](https://looka.com/)
 - [runwayml](https://runwayml.com/)
 - [uizard](https://uizard.io/)
 - [onlycoms](https://onlycoms.com/)
+- [Acorn](https://www.acorn.io/)
+- **videos**
+	- [Top 6 Tools to Turn Code into Beautiful Diagrams](https://www.youtube.com/watch?v=jCd6XfWLZsg)
 
 
 

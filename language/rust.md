@@ -122,6 +122,9 @@
 - [Zero-config Rust Deploys](https://www.youtube.com/watch?v=HZf6uKO0Ep4)
 - [the most basic of basic auth | rust, axum, dioxus, sqlite in prod](https://www.youtube.com/watch?v=MXgf5EVi2CE)
 - [Going all in on my Rust Voxel Engine](https://www.youtube.com/watch?v=m540dUb3SUY)
+- [Tonic makes gRPC in Rust stupidly simple](https://www.youtube.com/watch?v=kerKXChDmsE)
+- [Rust full stack web frameworks have a bright future](https://www.youtube.com/watch?v=tq3-M7QJiWg)
+- [Deploy your Rust project in 20 minutes](https://www.youtube.com/watch?v=_gMzg77Qjm0)
 
 ### Rust resources : 
 - [How to Learn Rust](https://www.youtube.com/watch?v=2hXNd6x9sZs)

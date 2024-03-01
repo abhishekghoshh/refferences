@@ -1,4 +1,8 @@
 
+#### Java roadmap 
+- [Java Backend Developer Roadmap in 2024](https://whimsical.com/java-backend-developer-roadmap-in-2024-8dEDtVse2QnDwGQmcSwLrJ)
+
+
 #### Reactive Java
 - [ReactiveX](https://reactivex.io/intro.html)
 - [RxJava](https://github.com/ReactiveX/RxJava)

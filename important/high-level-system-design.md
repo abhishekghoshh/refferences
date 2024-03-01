@@ -4,6 +4,25 @@
 - [aiven](https://aiven.io/)
 
 
+### projects
+- personal portfolio/Journal
+- App that archives and aggregates news headlines from different news portal
+- video conferencing
+- Recipe finder
+- Password manager
+- chat application
+- Data Visualizer
+- Vercel clone
+- chat bot
+- Shared whiteboard application
+- Structured leetcode
+- Build your own cloud
+- Todo/Schedular
+- IOT for home surveillance
+- Game development
+- Youtube recomendation/ next song or video analys
+
+
 ### System Design roadmap blogs
 - [System Design Roadmap | AlgoPrep](https://whimsical.com/system-design-roadmap-31C9vnRRATGW5Q95Krdciu)
 - [System Design Roadmap | TakeYouForward](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/)
@@ -13,6 +32,11 @@
 - [System Design Roadmap with Videos/Blogs for Everyone - Interviews and Kickstart Career](https://www.youtube.com/watch?v=3baWzvEDfgU)
 - [Books on System Design and System Design Interviews | System Architecture | Top 5 recommendations](https://www.youtube.com/watch?v=5dqvbDModlw)
 - [Mastering system design from scratch for Free | system design resources? | industry projects example](https://www.youtube.com/watch?v=Vd7zCHThQb8)
+
+
+### Project ideas
+
+
 
 ### Blogs 
 - [Design a distributed key-value store that is highly consistent and is network partition tolerant.](https://mukeshsri.medium.com/design-a-distributed-key-value-store-that-is-highly-consistent-and-is-network-partition-tolerant-ad6375faecc9)
@@ -47,6 +71,8 @@
 	- [I built Vercel in 2 Hours (System Design, AWS, Docker, Redis, S3)](https://www.youtube.com/watch?v=0A_JpLYG7hM)
 		- [Firse Vercel Code Review - PART 2](https://www.youtube.com/watch?v=-rCI-utuYig)
 	- [I Built Vercel in 2 Hours (Kafka, ClickHouse, Postgres) | Log Collection and Pipeline](https://www.youtube.com/watch?v=QPzrIp5kyho)
+- Zerodha
+	- [I coded Zerodha's Trading Algorithm in 1 hour](https://www.youtube.com/watch?v=aEMBp9Bqfwc)
 
 
 ### Single youtube videos
@@ -64,6 +90,28 @@
 - [Skyrocket Your API Performance with These Techniques](https://www.youtube.com/watch?v=vh6YJxc2o3g)
 - [Most Popular API Architecture Styles | Daily Code Buffer](https://www.youtube.com/watch?v=wBHXY5QDUE0)
 - [These Coding Projects Give You An Unfair Advantage](https://www.youtube.com/watch?v=UYySvyc4M68)
+- [SOLID Principles: Do You Really Understand Them?](https://www.youtube.com/watch?v=kF7rQmSRlq0)
+- [Firebase vs Supabase — I Built The Same App With Both](https://www.youtube.com/watch?v=yGbGxWMv9KA)
+- [Larger Scale Software Development](https://www.youtube.com/watch?v=slV0zdUEYJw)
+- [I tried 5 Firebase alternatives](https://www.youtube.com/watch?v=SXmYUalHyYk)
+
+
+#### Top tech products 
+- [How I Deploy ALL My Apps - My 2023 Stack](https://www.youtube.com/watch?v=v-9AZKp-Ljo)
+- [Build Apps In 1 Week With This Tech Stack](https://www.youtube.com/watch?v=zut46AB8DHQ)
+- [What's The top Tech Stack For 2023? (For Software Engineers)](https://www.youtube.com/watch?v=Aih05VGzE-o)
+- [The Best Tech Stack for Web Developers](https://www.youtube.com/watch?v=OpW7E3yz5EY)
+
+
+#### gRPC introduction
+- [When RESTful architecture isn't enough...](https://www.youtube.com/watch?v=_4TPM6clQjM)
+- [Where should you use gRPC? And where NOT to use it!](https://www.youtube.com/watch?v=4SuFtQV8RCk)
+- **comparisons**
+	- [tRPC, gRPC, GraphQL or REST: when to use what?](https://www.youtube.com/watch?v=veAb1fSp1Lk)
+	- [REST vs RPC vs GraphQL API - How do I pick the right API paradigm?](https://www.youtube.com/watch?v=hkXzsB8D_mo)
+	- [gRPC vs REST - KEY differences and performance TEST](https://www.youtube.com/watch?v=JjsT-i-ZEBc)
+
+
 
 
 
@@ -75,6 +123,8 @@
 - [How Discord Managed To Store BILLIONS Of Messages With This Database](https://www.youtube.com/watch?v=aDMUcfOaCm0)
 - [How Discord Stores TRILLIONS of Messages](https://www.youtube.com/watch?v=lLrzoyU4BPc)
 - [How Instagram Stores BILLIONS of Videos](https://www.youtube.com/watch?v=HzD_Kv6IyQ0)
+- [How Pinterest Scaled to 11 Million Users With Only 6 Engineers](https://www.youtube.com/watch?v=QRlP6BI1PFA)
+- [How Dropbox Saved Millions By Migrating From On-Prem to AWS](https://www.youtube.com/watch?v=KrkuTQjpvgs)
 
 
 ### How a product make money
@@ -92,6 +142,10 @@
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo/playlists)
 - [ByteMonk](https://www.youtube.com/@ByteMonk/playlists)
 - [sudocode](https://www.youtube.com/@sudocode/playlists)
+- [Keerti Purswani](https://www.youtube.com/@KeertiPurswani)
+	- [System Design](https://www.youtube.com/playlist?list=PLliXPok7ZonnZd99TE0Zzn1MZlE4u08GW)
+	- [Mock Coding Interviews | YouTubers, Software Engineers Interviews | This is as real as it gets](https://www.youtube.com/playlist?list=PLliXPok7Zonn3pcQp2TzNYnIKq1jPoLM8)
+	- [System Design with Students!](https://www.youtube.com/playlist?list=PLliXPok7ZonmGV99Lyughk2o38NIy8nkQ)
 - [Jordan has no life](https://www.youtube.com/@jordanhasnolife5163/playlists)
 - [Software Interviews Prep](https://www.youtube.com/@SoftwareInterviewsPrep)
 - [System Design Fight Club](https://www.youtube.com/@SDFC/playlists)
@@ -133,5 +187,51 @@
 	- [Design & Architecture](https://www.youtube.com/playlist?list=PLwLLcwQlnXBxeirFuVX9D24UMLSGU65Tw)
 - [Milan Jovanović](https://www.youtube.com/@MilanJovanovicTech/playlists)
 - [Web Dev Cody](https://www.youtube.com/@WebDevCody/playlists)
+- [TechPrep](https://www.youtube.com/@TechPrepYT)
+- [Piyush Garg](https://www.youtube.com/@piyushgargdev)
+	- [How to Crack Any System Design Interview | Scalable System Design](https://www.youtube.com/watch?v=sSKhdZ32YpY) **very good video**
+	- [Coding Highly Scaleable Backend | System Design](https://www.youtube.com/watch?v=02YpQGNmRwI)
+	- [Build Scaleable Realtime Chat App with NextJS and NodeJS Tutorial](https://www.youtube.com/watch?v=CQQc8QyIGl0)
+	- [Build Your Own MAIL Server | SMTP Server](https://www.youtube.com/watch?v=l3htAzOAx7c)
+- [Harkirat Singh](https://www.youtube.com/@harkirat1)
+	- [Open Source Bootcamp](https://www.youtube.com/playlist?list=PLVKLWop9wWA9h7qWQb6xByfXsRq18U-68)
 
 
+
+#### Websockets
+- [WebSockets in 100 Seconds & Beyond with Socket.io](https://www.youtube.com/watch?v=1BfCnjr_Vjg)
+- [How Web Sockets work | System Design Interview Basics](https://www.youtube.com/watch?v=pnj3Jbho5Ck)
+- [Don't Use Websockets (Until You Try This…)](https://www.youtube.com/watch?v=6QnTNKOJk5A)
+- [What is WebSocket? Why is it used & how is it different from HTTP?](https://www.youtube.com/watch?v=7WQ2EbXLfLI)
+
+
+
+#### WebRTC
+- [WebRTC in 100 Seconds // Build a Video Chat app from Scratch](https://www.youtube.com/watch?v=WmR9IMUD_CY)
+- [WebRTC Tutorial - How does WebRTC work?](https://www.youtube.com/watch?v=2Z2PDsqgJP8)
+- [How Does WebRTC Work? Seriously, How?](https://www.youtube.com/watch?v=SsN4gl_wV_8)
+- [WebRTC | Video Calling](https://www.youtube.com/playlist?list=PLinedj3B30sDxXVu4VXdFx678W2pJmORa)
+- [How Does WebRTC Work? | Crash Course](https://www.youtube.com/watch?v=8I2axE6j204)
+
+
+#### Serverless
+- [Amazon Prime Video Ditches AWS Serverless, Saves 90%](https://www.youtube.com/watch?v=JTp0TY_2hXM)
+- [Serverless was a big mistake... says Amazon](https://www.youtube.com/watch?v=qQk94CjRvIs)
+	- [Serverless Was A Mistake | Prime Reacts](https://www.youtube.com/watch?v=BcMm0aaqnnI)
+- [How and Why Prime Video Tech Switched From Serverless to "Monolith"](https://www.youtube.com/watch?v=xflakXiwkD0)
+- [What is Serverless? | Serverless Vs Monolith | AWS Lambda](https://www.youtube.com/watch?v=AgOmeANl3ls)
+- [Scaling Up Prime Video | Prime Reacts](https://www.youtube.com/watch?v=J7ITgYBn_3k)
+- [That's It, I'm Done With Serverless*](https://www.youtube.com/watch?v=UPo_Xahee1g)
+- [Serverless Doesn't Make Sense](https://www.youtube.com/watch?v=AuMeockiuLs)
+- [The Serverless Hype Explained!](https://www.youtube.com/watch?v=tgFiOzVEL0Q)
+
+
+#### Edge function
+- [Edge functions VS Serverless functions](https://www.youtube.com/watch?v=M2KUAb1FH1Y)
+- [Is "edge" computing really faster?](https://www.youtube.com/watch?v=yOP5-3_WFus)
+
+#### Architectural differences
+- [Monolithic vs Microservice Architecture: Which To Use and When?](https://www.youtube.com/watch?v=NdeTGlZ__Do)
+- [Explained : Serverless vs Serverful Backends](https://www.youtube.com/watch?v=90pVRK49AQM)
+- [Monolith vs Microservices vs Serverless](https://www.youtube.com/watch?v=1A9tPOfp6NA)
+- [AWS EC2 vs ECS vs Lambda | Which is right for YOU?](https://www.youtube.com/watch?v=-L6g9J9_zB8)

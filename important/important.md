@@ -1,7 +1,7 @@
 ### topics
 - [[ds-algo]]
 - [[design-patterns]]
-- [[system-design]]
+- [[high-level-system-design]]
 - [[tech-Interview]]
 - [[git]]
 - [[shell]]
