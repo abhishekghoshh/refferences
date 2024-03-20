@@ -1,5 +1,8 @@
 
 #### Introduction (docker, container runtime, containerd, kubernetes)
+- [100+ Docker Concepts you Need to Know](https://www.youtube.com/watch?v=rIrNIzy6U_g)
+- [you need to learn Docker RIGHT NOW!!](https://www.youtube.com/watch?v=eGz9DS-aIeY)
+- [Docker networking is CRAZY!!](https://www.youtube.com/watch?v=bKFMS5C4CG0)
 - [Understanding Docker Architecture](https://www.youtube.com/watch?v=4Qv1tb1bm1Q)
 - [Docker Architecture | Docker components : daemon, containerd, containerd-shim, runc](https://www.youtube.com/watch?v=253o0hxwxm8)
 - [Introduction to Docker for CTFs](https://www.youtube.com/watch?v=cPGZMt4cJ0I)
@@ -10,6 +13,10 @@
 - [What is a Container Runtime?](https://www.youtube.com/watch?v=DB0BH5N-gDY)
 - [Containerd - An open and reliable container runtime (CNCFMinutes 18)](https://www.youtube.com/watch?v=AP630LvIs0o)
 - [Docker vs Containerd: Understanding the Differences and Choosing the Right Containerization Tool](https://www.youtube.com/watch?v=21onkZfL2yM)
+- [Podman vs. Docker](https://www.youtube.com/watch?v=Xx588nbshlM)
+- [you should be using PODMAN](https://www.youtube.com/watch?v=0jhdCcAc8nM)
+
+#### Kubernetes introduction
 - [What is Kubernetes?](https://www.youtube.com/watch?v=w8tvUWNaBqs)
 - [Kubernetes Explained in 6 Minutes | k8s Architecture](https://www.youtube.com/watch?v=TlHvYWVUZyc)
 - [Kubernetes vs. Docker: It's Not an Either/Or Question](https://www.youtube.com/watch?v=2vMEQ5zs1ko)
@@ -31,8 +38,7 @@
 - [Kubernetes - Create your own k8s cluster step by step](https://www.youtube.com/watch?v=k3iexxiYPI8)
 
 #### podman
-- [Podman vs. Docker](https://www.youtube.com/watch?v=Xx588nbshlM)
-- [you should be using PODMAN](https://www.youtube.com/watch?v=0jhdCcAc8nM)
+
 
 
 #### Long youtube series

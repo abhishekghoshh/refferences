@@ -103,14 +103,6 @@
 - [The Best Tech Stack for Web Developers](https://www.youtube.com/watch?v=OpW7E3yz5EY)
 
 
-#### gRPC introduction
-- [When RESTful architecture isn't enough...](https://www.youtube.com/watch?v=_4TPM6clQjM)
-- [Where should you use gRPC? And where NOT to use it!](https://www.youtube.com/watch?v=4SuFtQV8RCk)
-- **comparisons**
-	- [tRPC, gRPC, GraphQL or REST: when to use what?](https://www.youtube.com/watch?v=veAb1fSp1Lk)
-	- [REST vs RPC vs GraphQL API - How do I pick the right API paradigm?](https://www.youtube.com/watch?v=hkXzsB8D_mo)
-	- [gRPC vs REST - KEY differences and performance TEST](https://www.youtube.com/watch?v=JjsT-i-ZEBc)
-
 
 
 
@@ -195,6 +187,7 @@
 	- [Build Your Own MAIL Server | SMTP Server](https://www.youtube.com/watch?v=l3htAzOAx7c)
 - [Harkirat Singh](https://www.youtube.com/@harkirat1)
 	- [Open Source Bootcamp](https://www.youtube.com/playlist?list=PLVKLWop9wWA9h7qWQb6xByfXsRq18U-68)
+- [CodeOpinion](https://www.youtube.com/@CodeOpinion/playlists)
 
 
 

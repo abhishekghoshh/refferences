@@ -1,4 +1,6 @@
 
+### Introduction
+- [cpu.land](https://cpu.land/the-basics)
 #### Books
 - [Crafting Interpreters](https://craftinginterpreters.com/contents.html) **book for building interpreter in C/Java**
 - [handmade.network](https://handmade.network/)
