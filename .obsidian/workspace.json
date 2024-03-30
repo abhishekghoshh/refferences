@@ -49,14 +49,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "language/Erlang.md",
+                "file": "cloud/kubernetes.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "04455e862910d461",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "language/Erlang.md",
+                "file": "cloud/kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "language/Erlang.md",
+                "file": "cloud/kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "language/Erlang.md"
+                "file": "cloud/kubernetes.md"
               }
             }
           }
@@ -183,8 +193,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "503341807a424b22",
+  "active": "04455e862910d461",
   "lastOpenFiles": [
+    "cloud/cloud.md",
+    "language/Erlang.md",
     "cloud/kubernetes.md",
     "language/golang.md",
     "important/application-security.md",
@@ -209,9 +221,7 @@
     "important/low-level-programming.md",
     "important/low-level-system-design.md",
     "language/java.md",
-    "language/Erlang.md",
     "important/ds-algo.md",
-    "frameworks/spring.md",
     "pdf/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf",
     "pdf/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf",
     "pdf/designing-data-intensive-applications.pdf",

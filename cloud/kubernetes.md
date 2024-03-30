@@ -15,6 +15,7 @@
 - [Docker vs Containerd: Understanding the Differences and Choosing the Right Containerization Tool](https://www.youtube.com/watch?v=21onkZfL2yM)
 - [Podman vs. Docker](https://www.youtube.com/watch?v=Xx588nbshlM)
 - [you should be using PODMAN](https://www.youtube.com/watch?v=0jhdCcAc8nM)
+- [Effortless Docker Management with LazyDocker: A Terminal UI for Containers, Images and Networks!](https://www.youtube.com/watch?v=G955-w-BIQQ)
 
 #### Kubernetes introduction
 - [What is Kubernetes?](https://www.youtube.com/watch?v=w8tvUWNaBqs)
