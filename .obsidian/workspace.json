@@ -49,24 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cloud/kubernetes.md",
+                "file": "important/low-level-programming.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "04455e862910d461",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cloud/kubernetes.md",
+                "file": "important/low-level-programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cloud/kubernetes.md",
+                "file": "important/low-level-programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cloud/kubernetes.md"
+                "file": "important/low-level-programming.md"
               }
             }
           }
@@ -193,11 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04455e862910d461",
+  "active": "503341807a424b22",
   "lastOpenFiles": [
+    "important/tools.md",
+    "cloud/kubernetes.md",
+    "important/git.md",
     "cloud/cloud.md",
     "language/Erlang.md",
-    "cloud/kubernetes.md",
     "language/golang.md",
     "important/application-security.md",
     "cloud/podman.md",
@@ -208,14 +200,12 @@
     "pdf/Command+Reference.pdf",
     "language/rust.md",
     "important/my-personal-vm.md",
-    "important/git.md",
     "important/open-source.md",
     "important/obsidian.md",
     "important/important.md",
     "important/networking.md",
     "frameworks/frameworks.md",
     "frameworks/Armeria.md",
-    "AI/AI-tools.md",
     "important/regular-expression.md",
     "important/linux.md",
     "important/low-level-programming.md",
