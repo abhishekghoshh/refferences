@@ -1,7 +1,9 @@
-### Youtube tutorials
+
+### Introduction
 - [Top 50+ AWS Services Explained in 10 Minutes](https://www.youtube.com/watch?v=JIbIYCM48to)
 - [Intro to AWS - The Most Important Services To Learn](https://www.youtube.com/watch?v=FDEpdNdFglI)
-- [The Serverless Hype Explained!](https://www.youtube.com/watch?v=tgFiOzVEL0Q)
+- [How I Would Learn AWS Today (after 10 years of cloud experience)](https://www.youtube.com/watch?v=LTH9m4HkeYY)
+	- [Mind Map](https://coggle.it/diagram/ZNyWdlpO0W45uyGP/t/star-fundamental-aws-concepts-star/e32b8f30645ef1e3ac58b95a70c8eeeff3d0f53796c601930f3752cae1f959e6)
 - [AWS | ByteMonk](https://www.youtube.com/playlist?list=PLJq-63ZRPdBswWWpRKzxlZPxF7m6LcZ_5)
 
 ### Udemy tutorials

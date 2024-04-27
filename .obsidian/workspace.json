@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e7a2e8d52ab6c64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "important/low-level-programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0bec79cbd1bba846",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "language/java.md",
+                "file": "important/important.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "important/low-level-programming.md",
+                "file": "important/high-level-system-design.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "important/low-level-programming.md",
+                "file": "important/important.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "important/low-level-programming.md",
+                "file": "important/important.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "important/low-level-programming.md"
+                "file": "important/important.md"
               }
             }
           }
@@ -183,9 +170,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "503341807a424b22",
+  "active": "0bec79cbd1bba846",
   "lastOpenFiles": [
     "important/tools.md",
+    "important/networking.md",
+    "important/style-guide.md",
+    "important/low-level-system-design.md",
+    "important/low-level-programming.md",
+    "important/high-level-system-design.md",
+    "cloud/AWS.md",
+    "language/java.md",
+    "important/tech-Interview.md",
     "cloud/kubernetes.md",
     "important/git.md",
     "cloud/cloud.md",
@@ -194,24 +189,16 @@
     "important/application-security.md",
     "cloud/podman.md",
     "important/design-patterns.md",
-    "important/style-guide.md",
     "important/productivity.md",
-    "important/high-level-system-design.md",
     "pdf/Command+Reference.pdf",
     "language/rust.md",
     "important/my-personal-vm.md",
     "important/open-source.md",
     "important/obsidian.md",
     "important/important.md",
-    "important/networking.md",
     "frameworks/frameworks.md",
     "frameworks/Armeria.md",
     "important/regular-expression.md",
-    "important/linux.md",
-    "important/low-level-programming.md",
-    "important/low-level-system-design.md",
-    "language/java.md",
-    "important/ds-algo.md",
     "pdf/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf",
     "pdf/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf",
     "pdf/designing-data-intensive-applications.pdf",

@@ -20,7 +20,3 @@
 - [LLD / Machine Coding - Important Concepts Made Easy | Detailed Examples with Code | Low Level System Design | Important for Interviews](https://www.youtube.com/playlist?list=PLliXPok7Zonm0trweRA2UeSTTLVYiPzNG)
 - [Low Level Design from Basics to Advanced](https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW)
 - [System Design - Low Level](https://www.youtube.com/playlist?list=PLJN9ydlFnJsiEgyjO3D3yBhtiENymhF8G)
-
-
-
-## Udemy
