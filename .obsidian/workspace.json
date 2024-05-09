@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "important/important.md",
+                "file": "server/server-proxy.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "327652ecc510f669",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
               }
             }
           },
@@ -43,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "important/important.md",
+                "file": "server/server-proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "important/important.md",
+                "file": "server/server-proxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "important/important.md"
+                "file": "server/server-proxy.md"
               }
             }
           }
@@ -170,8 +181,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bec79cbd1bba846",
+  "active": "327652ecc510f669",
   "lastOpenFiles": [
+    "server/server.md",
+    "server/certificates.md",
+    "important/design-patterns.md",
+    "personal-project/personal-project.md",
+    "important/important.md",
     "important/tools.md",
     "important/networking.md",
     "important/style-guide.md",
@@ -188,17 +204,12 @@
     "language/golang.md",
     "important/application-security.md",
     "cloud/podman.md",
-    "important/design-patterns.md",
     "important/productivity.md",
     "pdf/Command+Reference.pdf",
     "language/rust.md",
     "important/my-personal-vm.md",
     "important/open-source.md",
     "important/obsidian.md",
-    "important/important.md",
-    "frameworks/frameworks.md",
-    "frameworks/Armeria.md",
-    "important/regular-expression.md",
     "pdf/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf",
     "pdf/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf",
     "pdf/designing-data-intensive-applications.pdf",
