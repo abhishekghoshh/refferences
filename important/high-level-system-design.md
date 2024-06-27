@@ -22,6 +22,12 @@
 - Game development
 - Youtube recomendation/ next song or video analys
 
+### Some other resources (unorganized as of now, do it later):
+- [github.com/ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources?tab=readme-ov-file)
+- [How to Answer a System Design Interview Problem](https://newsletter.ashishps.com/p/how-to-answer-a-system-design-interview-problem)
+- [github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [github.com/binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+
 
 ### System Design roadmap blogs
 - [System Design Roadmap | AlgoPrep](https://whimsical.com/system-design-roadmap-31C9vnRRATGW5Q95Krdciu)
@@ -188,6 +194,7 @@
 - [Harkirat Singh](https://www.youtube.com/@harkirat1)
 	- [Open Source Bootcamp](https://www.youtube.com/playlist?list=PLVKLWop9wWA9h7qWQb6xByfXsRq18U-68)
 - [CodeOpinion](https://www.youtube.com/@CodeOpinion/playlists)
+- [Arpit Bhayani](https://www.youtube.com/@AsliEngineering/playlists)
 
 
 

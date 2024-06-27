@@ -23,9 +23,11 @@
             "id": "327652ecc510f669",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "important/high-level-system-design.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -35,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "important/high-level-system-design.md",
+                "file": "server/certificates.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "server/server-proxy.md",
+                "file": "important/high-level-system-design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "server/server-proxy.md",
+                "file": "important/high-level-system-design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "server/server-proxy.md"
+                "file": "important/high-level-system-design.md"
               }
             }
           }
@@ -183,20 +185,31 @@
   },
   "active": "327652ecc510f669",
   "lastOpenFiles": [
-    "server/server.md",
+    "important/my-personal-vm.md",
+    "important/low-level-system-design.md",
+    "important/high-level-system-design.md",
     "server/certificates.md",
+    "server/server.md",
+    "server/server-proxy.md",
+    "pdf/system-design-interview-an-insiders-guide-2nbsped-9798664653403.pdf",
+    "pdf/d60fa09a-c4b5-4e31-9dbd-5d049c6c8f49.pdf.pdf",
+    "pdf/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf",
+    "pdf/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf",
+    "pdf/Kubernetes_Tools_Ecosystem.pdf",
+    "pdf/Grokking-the-system-design-interviewpdf-5-pdf-free (1).pdf",
+    "pdf/Designing Data-Intensive Applications - Martin Kleppmann.pdf",
+    "pdf/Command+Reference.pdf",
+    "pdf/Sd_Blueprint.pdf",
+    "important/tech-Interview.md",
     "important/design-patterns.md",
     "personal-project/personal-project.md",
     "important/important.md",
     "important/tools.md",
     "important/networking.md",
     "important/style-guide.md",
-    "important/low-level-system-design.md",
     "important/low-level-programming.md",
-    "important/high-level-system-design.md",
     "cloud/AWS.md",
     "language/java.md",
-    "important/tech-Interview.md",
     "cloud/kubernetes.md",
     "important/git.md",
     "cloud/cloud.md",
@@ -205,20 +218,9 @@
     "important/application-security.md",
     "cloud/podman.md",
     "important/productivity.md",
-    "pdf/Command+Reference.pdf",
     "language/rust.md",
-    "important/my-personal-vm.md",
     "important/open-source.md",
-    "important/obsidian.md",
-    "pdf/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf",
-    "pdf/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf",
     "pdf/designing-data-intensive-applications.pdf",
-    "designing-data-intensive-applications.pdf",
-    "pdf/system-design-interview-an-insiders-guide-2nbsped-9798664653403.pdf",
-    "pdf/Grokking-the-system-design-interviewpdf-5-pdf-free (1).pdf",
-    "pdf/Designing Data-Intensive Applications - Martin Kleppmann.pdf",
-    "pdf/d60fa09a-c4b5-4e31-9dbd-5d049c6c8f49.pdf.pdf",
-    "pdf/Sd_Blueprint.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

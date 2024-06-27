@@ -1,6 +1,14 @@
 
 
 
+### Some other resources (unorganized as of now, do it later):
+- [github.com/ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)
+- [coursera.org/learn/object-oriented-design](https://www.coursera.org/learn/object-oriented-design)
+- [coursera.org/learn/design-patterns](https://www.coursera.org/learn/design-patterns)
+- [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software 2nd Edition 2nd](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X/)
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/B08X8ZXT15)
+
+
 ## Youtube
 
 #### roadmap
